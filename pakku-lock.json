@@ -2728,67 +2728,6 @@
             ]
         },
         {
-            "pakku_id": "h193zueb2UBY9Kqt",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "custom-health-bar",
-                "modrinth": "custom-health-bar"
-            },
-            "name": {
-                "curseforge": "Custom Health Bar",
-                "modrinth": "Custom Health Bar"
-            },
-            "id": {
-                "curseforge": "368357",
-                "modrinth": "XkZuow93"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "colorfulhealthbar-1.7.10-1.0.0.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XkZuow93/versions/1.0.0/colorfulhealthbar-1.7.10-1.0.0.jar",
-                    "id": "n2fwFmYa",
-                    "parent_id": "XkZuow93",
-                    "hashes": {
-                        "sha512": "193c76a9b37e479aa11397d2659696297ede02ae16779b78a4cef6ae3d758b510b143d0f439085cb368f634e1337e498fac7632831a2a94f394aa7d41225effa",
-                        "sha1": "b99a4c3ad68b649b7a1c593fd67e53189dd7ac96"
-                    },
-                    "required_dependencies": [],
-                    "size": 19865,
-                    "date_published": "2022-06-01T12:25:41.289712Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "colorfulhealthbar-1.7.10-1.0.0.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/3813/339/colorfulhealthbar-1.7.10-1.0.0.jar",
-                    "id": "3813339",
-                    "parent_id": "368357",
-                    "hashes": {
-                        "sha1": "b99a4c3ad68b649b7a1c593fd67e53189dd7ac96",
-                        "md5": "20e41c0bec65c93f836d623d0e398237"
-                    },
-                    "required_dependencies": [],
-                    "size": 19865,
-                    "date_published": "2022-06-01T12:11:50.910Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "biiWKgb6Zo0kroSg",
             "type": "MOD",
             "slug": {
@@ -3292,16 +3231,20 @@
             ]
         },
         {
-            "pakku_id": "oTSb6KAauBso9bmr",
+            "pakku_id": "QT1RCnZYxvMvsAU5",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "endercore"
+                "curseforge": "endercore",
+                "modrinth": "endercore"
             },
             "name": {
-                "curseforge": "EnderCore"
+                "curseforge": "EnderCore",
+                "modrinth": "EnderCore"
             },
             "id": {
-                "curseforge": "231868"
+                "curseforge": "231868",
+                "modrinth": "oJcFXakG"
             },
             "files": [
                 {
@@ -8209,27 +8152,36 @@
             ]
         },
         {
-            "pakku_id": "UoDvZx67bcxgsWCg",
+            "pakku_id": "MK5Tso8F7XLxM0WN",
             "type": "MOD",
             "slug": {
-                "github": "GTNewHorizons/Realistic-Terrain-Generation"
+                "curseforge": "realistic-terrain-generation"
             },
             "name": {
-                "github": "Realistic-Terrain-Generation"
+                "curseforge": "Realistic Terrain Generation"
             },
             "id": {
-                "github": "597862294"
+                "curseforge": "237989"
             },
+            "redistributable": false,
             "files": [
                 {
-                    "type": "github",
-                    "file_name": "RTG-1.1.3-GTNH.jar",
+                    "type": "curseforge",
+                    "file_name": "RTG-1.7.10-1.1.1.7.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Realistic-Terrain-Generation/releases/download/1.1.3-GTNH/RTG-1.1.3-GTNH.jar",
-                    "id": "168587956",
-                    "parent_id": "597862294",
-                    "size": 2409209,
-                    "date_published": "2024-05-17T21:52:53Z"
+                    "url": "https://edge.forgecdn.net/files/2521/557/RTG-1.7.10-1.1.1.7.jar",
+                    "id": "2521557",
+                    "parent_id": "237989",
+                    "hashes": {
+                        "sha1": "7d542c0e06b4a543468f033e365fee01d8bdd91b",
+                        "md5": "879e4b69150d841132a1035b022af7bb"
+                    },
+                    "required_dependencies": [],
+                    "size": 2444070,
+                    "date_published": "2018-01-18T16:59:48.100Z"
                 }
             ]
         },
@@ -9105,6 +9057,31 @@
                     ],
                     "size": 24785,
                     "date_published": "2014-11-14T09:24:35.340Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZJHZXhMN02KVjrUj",
+            "type": "MOD",
+            "slug": {
+                "github": "GTNewHorizons/StorageDrawers"
+            },
+            "name": {
+                "github": "StorageDrawers"
+            },
+            "id": {
+                "github": "78181444"
+            },
+            "files": [
+                {
+                    "type": "github",
+                    "file_name": "StorageDrawers-2.1.0-GTNH.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.0-GTNH/StorageDrawers-2.1.0-GTNH.jar",
+                    "id": "217399692",
+                    "parent_id": "78181444",
+                    "size": 1274343,
+                    "date_published": "2025-01-02T13:04:51Z"
                 }
             ]
         },
@@ -10339,6 +10316,9 @@
         },
         {
             "pakku_id": "c6KD8XcX2mzJe3Tm",
+            "pakku_links": [
+                "QT1RCnZYxvMvsAU5"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "waila-plugins"
