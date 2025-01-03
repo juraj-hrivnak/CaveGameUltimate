@@ -1,0 +1,12 @@
+item.TF2SentryRed.name=Red Sentry
+item.TF2SentryBlu.name=Blue Sentry
+item.SentryBase.name=Sentry Base
+item.SentryHead.name=Sentry Head
+item.SentryMonitor.name=Sentry Monitor
+item.GoldenWrench.name=Golden Wrench
+item.Wrench.name=Wrench
+entity.TF2Bullet.name=TF2 Bullet
+entity.TF2Rocket.name=TF2 Rocket
+entity.TF2Sentry.TF2Sentry 1.name=Sentry T1
+entity.TF2Sentry.TF2Sentry 2.name=Sentry T2
+entity.TF2Sentry.TF2Sentry 3.name=Sentry T3
