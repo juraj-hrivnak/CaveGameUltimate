@@ -1,6 +1,6 @@
 invertYMouse:false
 mouseSensitivity:0.57746476
-fov:0.6931133
+fov:0.69294834
 gamma:1.0
 saturation:0.0
 renderDistance:8
@@ -11,7 +11,7 @@ anaglyph3d:false
 advancedOpengl:false
 maxFps:60
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:1
 clouds:false
@@ -147,6 +147,7 @@ key_Pneumatic Helmet Hack:0
 key_Pneumatic Helmet Debugging Drone:21
 key_keys.servertabinfo.show:29
 key_keys.servertabinfo.show2:157
+key_key.sapmanpack.updateKey:22
 key_smoothfont.key.guiOpen:199
 key_key.cameraZoomIn:13
 key_key.cameraZoomOut:12
