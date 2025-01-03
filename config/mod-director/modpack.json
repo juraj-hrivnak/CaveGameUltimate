@@ -1,0 +1,8 @@
+{
+    "packName": "Cave Game Ultimate v1.5",
+    "icon": {
+        "path": "logo.png",
+        "width": 64,
+        "height": 64
+   }
+}

@@ -1,0 +1,56 @@
+{
+  "_name": "vn_snowy_house",
+  "min": 3,
+  "max": 9,
+  "loot": [
+    {
+      "weight": 4,
+      "id": "minecraft:snow",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:potato",
+      "damage": 0,
+      "min": 1,
+      "max": 7
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:furnace",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:emerald",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:snowball",
+      "damage": 0,
+      "min": 1,
+      "max": 7
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:coal",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    }
+  ]
+}

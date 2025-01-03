@@ -1,0 +1,30 @@
+{
+    "name": "CaveGameUltimate",
+    "version": "0.0.1",
+    "overrides": [
+        "config",
+        "flan",
+        "local",
+        "scripts",
+        "structures",
+        "icon.png"
+    ],
+    "client_overrides": [
+        "resources",
+        "oresources"
+    ],
+    "projects": {
+        "modernity": {
+            "update_strategy": "NONE"
+        },
+        "baubles": {
+            "subpath": "1.7.10"
+        },
+        "bspkrscore": {
+            "subpath": "1.7.10"
+        },
+        "GTNewHorizons/ForgeMultipart": {
+            "subpath": "1.7.10"
+        }
+    }
+}

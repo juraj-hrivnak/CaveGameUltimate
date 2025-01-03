@@ -1,0 +1,31 @@
+
+{
+  "ID": 150,
+  "Name": "biome.treasure.name",
+  "Class": "fossilsarcheology.server.biome.FossilsBiome",
+  "Color": 0,
+  "Root Height": 0.0,
+  "Height Variation": 0.0,
+  "Top Block": "minecraft:air",
+  "Filler Block": "minecraft:air",
+  "Actual Filler Block": "minecraft:stone",
+  "Liquid Filler Block": "streams:river/tile.water/2/2",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.8,
+  "Humidity": 0.0,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "DRY",
+    "PLAINS"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Tweaked": false
+}

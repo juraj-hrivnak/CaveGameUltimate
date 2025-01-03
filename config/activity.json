@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GoGoMenTV",
+      "uniqueId": "abfee173-bfae-4a95-bf63-b4bfd5f62594"
+    },
+    "time": 1735930299335,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YxsDTQFS0H"
+    }
+  }
+]

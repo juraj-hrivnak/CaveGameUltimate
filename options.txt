@@ -1,0 +1,277 @@
+invertYMouse:false
+mouseSensitivity:0.57746476
+fov:0.6931133
+gamma:1.0
+saturation:0.0
+renderDistance:8
+guiScale:3
+particles:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+maxFps:60
+fboEnable:true
+difficulty:0
+fancyGraphics:true
+ao:1
+clouds:false
+resourcePacks:["Modernity-format1-v3.8.1.zip"]
+lastServer:
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:0.7816901
+snooperEnabled:false
+fullscreen:true
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.5
+chatScale:1.0
+chatWidth:1.0
+showInventoryAchievementHint:false
+mipmapLevels:0
+anisotropicFiltering:1
+streamBytesPerPixel:0.5
+streamMicVolume:1.0
+streamSystemVolume:1.0
+streamKbps:0.5412844
+streamFps:0.31690142
+streamCompression:1
+streamSendMetadata:true
+streamPreferredServer:
+streamChatEnabled:0
+streamChatUserFilter:0
+streamMicToggleBehavior:0
+forceUnicodeFont:false
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:63
+key_key.smoothCamera:0
+key_key.sprint:29
+key_key.streamStartStop:64
+key_key.streamPauseUnpause:65
+key_key.streamCommercial:0
+key_key.streamToggleMic:0
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_of.key.zoom:0
+key_key.toggle_focus.desc:15
+key_key.archimedes.up:45
+key_key.archimedes.down:44
+key_key.archimedes.brake:46
+key_key.archimedes.align:13
+key_key.archimedes.decompile:43
+key_key.archimedes.shipinv:37
+key_key.betterquesting.quests:28
+key_ALT Key:46:CONTROL
+key_Boost Key:48:CONTROL
+key_Mode Switch Key:36
+key_Side Inventory Key:44:CONTROL
+key_IC2 Hub Expand Key:47:CONTROL
+key_cos.key.openCosArmorInventory:52
+key_NPC Inventory:38
+key_doggytalents.key.come:209
+key_doggytalents.key.stay:209
+key_doggytalents.key.ok:209
+key_doggytalents.key.heel:209
+key_Down key:208
+key_Inventory key:19
+key_Bomb Key:48
+key_Gun Key:48
+key_Control Switch key:46
+key_Reload key:19
+key_Select Preferred Ammo key:0
+key_Gun Mode key:33
+key_Minigames Select Team Key:34
+key_Minigames Scores Key:0
+key_Minigames Select Class Key:24
+key_Roll Left Key:44
+key_Roll Right Key:45
+key_Gear Up / Down Key:38
+key_Door Open / Close Key:37
+key_Mode Switch Key:36
+key_Flare Key:49
+key_Debug Key:68
+key_Reload Models Key:67
+key_Mod Options:39
+key_Select Gun Underbarrel:37
+key_Increase Scope Zoom:200
+key_Decrease Scope Zoom:208
+key_Gravi Fly Key:33:CONTROL
+key_Gravi Display Hud:34:CONTROL
+key_igwmod.keys.wiki:53
+key_itemscroller.desc.toggledisable:34
+key_itemscroller.desc.recipe:34
+key_key.open_menu:157
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
+key_oreexcavation.key.excavate:47
+key_oreexcavation.key.shape:51
+key_PM_ParticleMode:37
+key_PM_ShieldToggle:38
+key_key.ping:11
+key_Pneumatic Helmet Options:33
+key_Pneumatic Helmet Hack:0
+key_Pneumatic Helmet Debugging Drone:21
+key_keys.servertabinfo.show:29
+key_keys.servertabinfo.show2:157
+key_smoothfont.key.guiOpen:199
+key_key.cameraZoomIn:13
+key_key.cameraZoomOut:12
+key_key.cameraEmitRedstone:207
+key_key.cameraActivateNightVision:49
+key_worldstatecheckpoints.keybind.desc:64
+key_keys.adventureBackpack.openInventory:41
+key_keys.adventureBackpack.toggleActions:49:CONTROL
+key_Baubles Inventory:14
+key_Change Wand Focus:19
+key_Activate Hover Harness:0
+key_Misc Wand Toggle:34
+key_key.betterHud.open:210
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
+key_key.toggleCleanView:0
+key_key.craftingtweaks.rotate:207
+key_key.craftingtweaks.balance:48
+key_key.craftingtweaks.clear:46
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compress:37
+key_key.craftingtweaks.decompress:0
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_key.tarmor:40
+key_key.tgoggles:34
+key_key.tbelt:51
+key_key.tzoom:46
+key_Hold to use other FC keys:46
+key_Toggle Cull Entities:49:ALT
+key_Toggle Cull Tile Entities:50:ALT
+key_RV/FR Decrease:51
+key_RV/FR Increase:52
+key_Toggle Scale RD With Size:184
+key_FpsReducer.key.guiOpen:73
+key_key.materialCosts:56
+key_key.clipboardPaste:210
+key_Open Key Wizard:62
+key_Jet Pack Lift:207
+key_Jet Pack Hover:0
+key_Creepssile Launch:34
+key_key.rotateup:200
+key_key.rotatedown:208
+key_key.rotateright:205
+key_key.rotateleft:203
+key_key.flip:33
+key_key.mark:69
+key_mapmakingtools.key.itemeditor:53
+key_Mekanism Item Mode Switch:74
+key_Mekanism Armor Mode Switch:78
+key_Mekanism Voice:22
+key_key.config:76
+key_Toggle Numina FOV fix :0
+key_Open MPS Keybind GUI:37:ALT
+key_Go Down (MPS Flight Control):44
+key_Cycle Tool Backward (MPS):-1
+key_Cycle Tool Forward (MPS):33
+key_Zoom (MPS):21
+key_Cosmetic (MPS):-1
+key_Quick Commands:209
+key_key.fart.desc:207
+key_key.plonk.place.desc:25
+key_pe.key.armor_toggle:207
+key_pe.key.charge:52
+key_pe.key.extra_function:46
+key_pe.key.fire_projectile:207
+key_pe.key.mode:34
+key_Camera left:203
+key_Camera right:205
+key_Camera closer:200
+key_Camera farther:208
+key_Camera up:201
+key_Camera down:209
+key_Swap shoulder:24
+key_Toggle perspective:0
+key_Solve TC Research Node:78
+key_techguns.key.toggleNightvision:49
+key_techguns.key.toggleSafemode:26
+key_techguns.key.toggleStepassist:40
+key_techguns.key.forceReload:207
+key_techguns.key.toggleJetpack:36
+key_ttmisc.toggleArmor:22
+key_invtweaks.key.sort:77
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:71
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:181:ALT
+key_gui.xaero_enlarge_map:44:ALT
+key_gui.xaero_waypoints_key:22:ALT
+key_gui.xaero_zoom_in:46:ALT
+key_gui.xaero_zoom_out:47:ALT
+key_gui.xaero_new_waypoint:181
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_minimap_settings:21:ALT
+key_gui.xaero_open_map:50
+key_gui.xaero_open_settings:27
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
+key_gui.xaero_quick_confirm:54
+key_zoom.keybind.zoom:46
+key_key.cofh.empower:12
+key_key.cofh.multimode:46
+key_key.betterfoliage.gui:66
+key_railcraft.keybind.loco.faster:0
+key_railcraft.keybind.loco.slower:0
+key_railcraft.keybind.loco.mode:0
+key_railcraft.keybind.loco.whistle:0
+key_key.control:157
+key_key.fastBlockPlacing.desc:0
+key_Profile GUI:0
+key_Chunk loading minimap:0
+key_Chunk redraw visualization:0
+soundCategory_master:0.6423841
+soundCategory_music:0.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:0.70422536
+soundCategory_ambient:1.0

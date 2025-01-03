@@ -1,0 +1,56 @@
+# Example resources.packconfig file
+# Comments start with an # and will affect the rest of the line.
+# Incorrect lines are also ignored so non-existant properties, spaces etc aren't an issue.
+
+# Please check out the wiki for more information: https://github.com/HRudyPlayZ/MCInstanceLoader/wiki
+
+# The file is separated into multiple resources, each created with a line starting with square brackets ([]).
+
+[Example URL file]    # The value inside here is the resource's name, it is what will be displayed to the user.
+type = url   # This is the value type, currently it can either be "url", "modrinth", or "curseforge". URL is the default in case of an incorrect or missing value.
+destination = [Where to save the file, relative to the .minecraft folder]   # Don't forget to add the file name with the extension at the end.
+
+url = [The web address of the file you want to download]
+
+# It is also possible to add a list of buttons to click in order using the follows property.
+# It is just a list of texts to "click" on, separated by commas and ignoring any heading or ending spaces.
+# If for some reasons you need to click on a button that has a comma in its text, you can write "\," to escape it.
+# The text to click on is accesed through the HTML page like this: <div href="[Your target URL]"> [Your text] </div>
+follows = [Your first button to click on], [The second button to click afterwards], [...]
+
+# It is possible to set any resource to only download when either on the client or server side. Both is the default in case of an incorrect or missing value.
+side = both | client | server
+
+# It is also possible to mark a resource as optional, meaning that it won't be automatically downloaded this way.
+optional = true
+
+# The following are hashes, they're not mandatory, but setting at least one of them is recommended. Only the following formats are supported for now.
+# Any file that doesn't match one of the given hashes will throw an error. Hashes are required if you want to use the mod's cache feature.
+SHA-512 = [Your SHA-512 hash]   #Any of the SHA properties can also be written without the dash. (like SHA512)
+SHA-256 = [Your SHA-256 hash]
+SHA-1 = [Your SHA-1 hash]
+MD5 = [Your MD5 hash]
+CRC32 = [Your CRC32 hash]   # Uses the big-endian order and not little-endian. So the format commonly given by websites, WinRAR, OpenHashTab and others as opposed to Unix's md5sum.
+
+
+[Example Modrinth file]
+type = modrinth   # Modrinth files use the "modrinth" type.
+destination = [Where to save the file, relative to the .minecraft folder]
+versionId = [Your file's version ID]   # It can be obtained by going on the website and looking around on the download page of the file you want.
+sourceFileName = [The name of the file hosted on Modrinth's servers]   # Mandatory if there's multiple files on the version you're looking for. Optional otherwise.
+
+# Hashes can also be given here. If no hashes are given, the mod will grab them from the API's response in order to still allow for caching if possible.
+
+
+[Example Curseforge file]
+type = curseforge   # Curse files use the "curseforge" type.
+destination = [Where to save the file, relative to the .minecraft folder]
+
+# The mod has multiple ways of downloading from Curseforge. You can either set the projectId and fileId or the fileId and sourceFileName to change the way a file gets downloaded.
+# Please note that the API may break at some point. And it is recommended to give all three of those values just in case.
+projectId = [Your file project's ID]   # It can be obtained by going on the website and looking on the right side of the project page.
+fileId = [Your file's ID]   # It can be obtained in the URL of the download page for a specific file.
+sourceFileName = [The name of the file hosted on Curseforge's servers]
+
+# Hashes can also be given here. If no hashes are given, the mod will grab them from the API's response if possible, in order to still allow for caching.
+# Note that the mod will only use the API if at least the projectId and fileId properties are given, otherwise it will try to generate the URL.

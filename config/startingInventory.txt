@@ -1,0 +1,2 @@
+questbook:ItemQuestBook,1,0
+dmod:bundle,1,0,{Items:[0:{id:6663,Count:1b,Damage:0s}]}

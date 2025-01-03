@@ -1,0 +1,67 @@
+{
+  "showDebug": false,
+  "textOffset": 20,
+  "lineHeight": 9,
+  "tooltipOffsetX": 8,
+  "tooltipOffsetY": -12,
+  "ores": {
+    "oreCoal": {
+      "Overworld": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 127"
+      ]
+    },
+    "oreQuartz": {
+      "Nether": [
+        "Max Vein Size: 14",
+        "Attempts per Chunk: 16",
+        "Y-Level: 10 to 117"
+      ]
+    },
+    "oreIron": {
+      "Overworld": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 63"
+      ]
+    },
+    "oreDiamond": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 15"
+      ]
+    },
+    "oreRedstone": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 0 to 15"
+      ]
+    },
+    "oreEmerald": {
+      "Overworld": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 3 to 9",
+        "Y-Level: 4 to 31",
+        "This Ore generates only in Hills!"
+      ]
+    },
+    "oreLapis": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 30",
+        "This Ore is normally distributed!"
+      ]
+    },
+    "oreGold": {
+      "Overworld": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 31"
+      ]
+    }
+  }
+}

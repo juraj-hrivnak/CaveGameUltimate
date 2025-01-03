@@ -1,0 +1,53 @@
+# Example optionals.packconfig file
+# Comments start with an # and will affect the rest of the line.
+
+# Please check out the wiki for more information: https://github.com/HRudyPlayZ/MCInstanceLoader/wiki
+
+# The file is separated into multiple "choice menus", each created with a line starting with square brackets ([]).
+# Each of them is separate from the other and will be displayed one at a time.
+[Menu 1]    # The value inside here is the internal menu name, it may be used at some point, so make sure to give a unique name nonetheless.
+
+title = [Your title]    # This value defines the title of the menu, make it say something like "Choose one of the following:".
+
+# Those two properties define how many items you can select in the menu.
+# Everything selected by the user will be downloaded once they click the "Confirm and continue" button.
+# If the maximum amount of choices is above the minimum, there is no restriction on how many choices you can make.
+# If there is less selected items than the minimum, the "Confirm and continue" button will be grayed out.
+# If there is more than the maximum amount of items checked, the first one will automatically get unchecked.
+
+maxchoices = 1     # A number between 0 and X (any incorrect value will get ignored or adapted to the range), defaults to 1 if no value is set, 0 means there is no maximum to the amount you can check.
+minchoices = 0     # A number between 0 and X (any incorrect value will get ignored or adapted to the range). defaults to 0 if no value is set, which means the user is allowed to not check anything.
+
+# The optional resources system uses a list of "option" objects, this allows for grouping resources.
+# This list uses the format of optionX.property, X starting at 1.
+# It needs to be ordered, any option where the id (X) is separated by a hole will be ignored.
+# Below are how they're defined.
+
+option1.name = [Your option name]    # The name of the option, displayed next to the checkbox to the user.
+option1.description = [Your option's description]    # The description of the option, used to indicate more precisely to the user what this choice does.
+option1.default = true    # Whether the option should be checked by default or not, defaults to false if no value is set. Keep in mind that this still respects the value of maxchoices and might get unchecked if later options also get set to default and exceed the limit.
+
+# The list of resources to download by choosing this specific option, separated by commas.
+# Commas can be included inside a resource name if needed using "\,".
+# Those names are defined inside the resources.packconfig file inside brackets.
+# NOTE: Only resources that were set to be optional would be downloaded.
+# Any undefined resources would be ignored.
+option1.resources = [Your first resource name], [Your second resource name], [...]
+
+option2.name = [Your second option name]
+option2.description = [Your second option's description]
+option2.default = true    # Setting this to true means that Option 1 will get unchecked as there is a maximum of one checked option for this menu.
+option2.resources = [Resource A], [Resource B], [...]
+
+# NOTE: You can put as much options as you want, note that they will get splitted into pages of 3 in order to be displayed in the GUI.
+# The page buttons and indicators only appear if there is more than one page. If there is more than 2, a first page and a last page button also appear.
+
+
+# Completely unrelated menu with its own settings.
+[Menu 2]
+title = [Your second title]
+
+option1.name = [Your first option name]
+option1.desription = [Your first option description]
+option1.default = true
+option1.resources = [Resource A], [...]

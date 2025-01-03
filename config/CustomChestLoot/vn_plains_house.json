@@ -1,0 +1,77 @@
+{
+  "_name": "vn_plains_house",
+  "min": 3,
+  "max": 9,
+  "loot": [
+    {
+      "weight": 1,
+      "id": "minecraft:gold_nugget",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:yellow_flower",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:red_flower",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:potato",
+      "damage": 0,
+      "min": 1,
+      "max": 7
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:apple",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:feather",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:emerald",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:sapling",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    }
+  ]
+}

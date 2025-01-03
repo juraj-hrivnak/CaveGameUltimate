@@ -1,0 +1,63 @@
+{
+  "_name": "vn_desert_house",
+  "min": 3,
+  "max": 9,
+  "loot": [
+    {
+      "weight": 1,
+      "id": "minecraft:clay_ball",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:dye",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:cactus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:wheat",
+      "damage": 0,
+      "min": 1,
+      "max": 7
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:deadbush",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:emerald",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}
