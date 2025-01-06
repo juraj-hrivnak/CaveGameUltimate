@@ -1008,7 +1008,6 @@
             "id": {
                 "github": "441675244"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "github",
@@ -5866,7 +5865,6 @@
             "id": {
                 "github": "430618667"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "github",
@@ -10955,39 +10953,6 @@
                     "parent_id": "398808234",
                     "size": 145330,
                     "date_published": "2024-06-27T19:50:40Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "i4VIn3FZn3vdZ9zU",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "project-73926"
-            },
-            "name": {
-                "curseforge": "project-73926"
-            },
-            "id": {
-                "curseforge": "73926"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "supercraftingframe-1.7.10.3.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2227/36/supercraftingframe-1.7.10.3.jar",
-                    "id": "2227036",
-                    "parent_id": "73926",
-                    "hashes": {
-                        "sha1": "53f67f981453b0ac7b3a7e33b8d09c8d8f8cb6d0",
-                        "md5": "81086777be7b1eca8a88b5c284935162"
-                    },
-                    "required_dependencies": [],
-                    "size": 89875,
-                    "date_published": "2015-02-11T23:23:35.077Z"
                 }
             ]
         },

@@ -1,9 +1,8 @@
 {
     "name": "CaveGameUltimate",
-    "version": "0.0.1",
+    "version": "2.0.0-Beta.1",
     "overrides": [
         "config",
-        "flan",
         "local",
         "scripts",
         "structures",
@@ -28,6 +27,12 @@
         },
         "hodgepodge": {
             "update_strategy": "NONE"
+        },
+        "GTNewHorizons/BetterBuildersWands": {
+            "redistributable": true
+        },
+        "GTNewHorizons/Mantle": {
+            "redistributable": true
         }
     }
 }

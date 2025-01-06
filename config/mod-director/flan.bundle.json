@@ -1,0 +1,39 @@
+{
+    "url": [
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Mecha%20Parts-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Mecha Parts-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Modern%20Warfare-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Modern Warfare-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Simple%20Parts-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Simple Parts-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Titan-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Titan-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/WW2-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "WW2-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Ye%20Olde-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Ye Olde-Content Pack-1.7.10-4.10.0.jar.zip"
+        },
+        {
+            "url": "https://github.com/juraj-hrivnak/CaveGameUltimate/raw/refs/heads/main/Flan/Zombie-Content%20Pack-1.7.10-4.10.0.jar.zip",
+            "folder": "Flan",
+            "fileName": "Zombie-Content Pack-1.7.10-4.10.0.jar.zip"
+        }
+    ]
+}
