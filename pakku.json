@@ -25,6 +25,9 @@
         },
         "GTNewHorizons/ForgeMultipart": {
             "subpath": "1.7.10"
+        },
+        "hodgepodge": {
+            "update_strategy": "NONE"
         }
     }
 }

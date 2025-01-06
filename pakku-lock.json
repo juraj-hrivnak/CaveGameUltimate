@@ -4635,6 +4635,7 @@
                 "curseforge": "688899",
                 "modrinth": "6QQe8Ldy"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "modrinth",
@@ -7026,7 +7027,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NotEnoughItems-2.7.12-GTNH-pre.jar",
+                    "file_name": "NotEnoughItems-2.7.14-GTNH-pre.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -7034,22 +7035,22 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/nw9x01F0/NotEnoughItems-2.7.12-GTNH-pre.jar",
-                    "id": "nw9x01F0",
+                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/KXjBKzRS/NotEnoughItems-2.7.14-GTNH-pre.jar",
+                    "id": "KXjBKzRS",
                     "parent_id": "iNPc3Onu",
                     "hashes": {
-                        "sha512": "95fe4d35976b86503f347a703f69f7dab8758c1ecbb480cd07660ccd5a1d851e20e4db033d95d4f0884ed5e8a7256cb6800af258a3b1bca55c560e2f16e8bc6f",
-                        "sha1": "affd51afbaf0052b66e300a521038d3609082f44"
+                        "sha512": "824d8bec08f004d97acd5d961d77227dba61c5dd5bf5e2d993f7cc838df01cb7c6063f1988914f0a83be769457c49c757db113200b78916450f195f54702d1d6",
+                        "sha1": "daaa8c05484b4b7a3abaa57fad5276440f27a5a0"
                     },
                     "required_dependencies": [
                         "qMOdaUOs"
                     ],
-                    "size": 956690,
-                    "date_published": "2024-12-31T20:00:56.203453Z"
+                    "size": 956807,
+                    "date_published": "2025-01-04T14:39:18.101216Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "NotEnoughItems-2.7.12-GTNH-pre.jar",
+                    "file_name": "NotEnoughItems-2.7.14-GTNH-pre.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -7057,18 +7058,18 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6040/683/NotEnoughItems-2.7.12-GTNH-pre.jar",
-                    "id": "6040683",
+                    "url": "https://edge.forgecdn.net/files/6052/742/NotEnoughItems-2.7.14-GTNH-pre.jar",
+                    "id": "6052742",
                     "parent_id": "358228",
                     "hashes": {
-                        "sha1": "affd51afbaf0052b66e300a521038d3609082f44",
-                        "md5": "e0418c745418ad5ceb273cb3df7632af"
+                        "sha1": "daaa8c05484b4b7a3abaa57fad5276440f27a5a0",
+                        "md5": "609d554ed0c35a559478f3213d54fc27"
                     },
                     "required_dependencies": [
                         "746279"
                     ],
-                    "size": 956690,
-                    "date_published": "2024-12-31T20:00:57.587Z"
+                    "size": 956807,
+                    "date_published": "2025-01-04T14:39:20.440Z"
                 }
             ]
         },
