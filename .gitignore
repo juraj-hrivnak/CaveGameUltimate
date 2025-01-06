@@ -5,29 +5,29 @@ build/
 .pakku/staging/
 
 # .minecraft
-mods/
-resourcepacks/
-saves/
-screenshots/
-server-resource-packs/
-shaderpacks/
-texturepacks/
-logs/
-crash-reports/
-icon.png
-/customnpcs
-/coretweaks
-/falsepattern
-/fonts
-/llibrary
-/mputils
-/stall-reports
-/Xaero*
+mods/**
+resourcepacks/**
+saves/**
+screenshots/**
+server-resource-packs/**
+shaderpacks/**
+texturepacks/**
+logs/**
+crash-reports/**
+customnpcs/**
+coretweaks/**
+falsepattern/**
+fonts/**
+llibrary/**
+mputils/**
+stall-reports/**
+Xaero*/**
 
 *.log
 *.dat
 *.dll
 
+icon.png
 TF2SentryTargetlist.txt
 TimeUsage.txt
 usernamecache.json
