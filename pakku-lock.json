@@ -324,13 +324,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "appliedenergistics2-rv3-beta-517-GTNH-pre.jar",
+                    "file_name": "appliedenergistics2-rv3-beta-519-GTNH-pre.jar",
                     "release_type": "beta",
-                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-517-GTNH-pre/appliedenergistics2-rv3-beta-517-GTNH-pre.jar",
-                    "id": "216799819",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-519-GTNH-pre/appliedenergistics2-rv3-beta-519-GTNH-pre.jar",
+                    "id": "217763285",
                     "parent_id": "123942395",
-                    "size": 3625269,
-                    "date_published": "2024-12-30T19:37:27Z"
+                    "size": 3626653,
+                    "date_published": "2025-01-03T20:39:38Z"
                 }
             ]
         },
@@ -1036,13 +1036,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "BetterQuesting-3.7.1-GTNH.jar",
+                    "file_name": "BetterQuesting-3.7.2-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.1-GTNH/BetterQuesting-3.7.1-GTNH.jar",
-                    "id": "217403478",
+                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.2-GTNH/BetterQuesting-3.7.2-GTNH.jar",
+                    "id": "217771103",
                     "parent_id": "113160587",
-                    "size": 1887456,
-                    "date_published": "2025-01-02T13:33:58Z"
+                    "size": 1887457,
+                    "date_published": "2025-01-03T21:19:23Z"
                 }
             ]
         },
@@ -4162,13 +4162,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ForgeRelocation-0.3.0.jar",
+                    "file_name": "ForgeRelocation-0.3.1.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.0/ForgeRelocation-0.3.0.jar",
-                    "id": "216951586",
+                    "url": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.1/ForgeRelocation-0.3.1.jar",
+                    "id": "217786321",
                     "parent_id": "577954814",
-                    "size": 561800,
-                    "date_published": "2024-12-31T13:26:12Z"
+                    "size": 561813,
+                    "date_published": "2025-01-03T22:31:34Z"
                 }
             ]
         },
@@ -6572,13 +6572,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "MrTJPCore-1.2.1.jar",
+                    "file_name": "MrTJPCore-1.3.0.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.2.1/MrTJPCore-1.2.1.jar",
-                    "id": "176562140",
+                    "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.0/MrTJPCore-1.3.0.jar",
+                    "id": "217785666",
                     "parent_id": "578364485",
-                    "size": 760384,
-                    "date_published": "2024-06-28T20:19:46Z"
+                    "size": 760393,
+                    "date_published": "2025-01-03T22:26:59Z"
                 }
             ]
         },
@@ -7262,13 +7262,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenModularTurrets-2.4.0.jar",
+                    "file_name": "OpenModularTurrets-2.4.2.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.0/OpenModularTurrets-2.4.0.jar",
-                    "id": "212449240",
+                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.2/OpenModularTurrets-2.4.2.jar",
+                    "id": "218130108",
                     "parent_id": "457128175",
-                    "size": 964433,
-                    "date_published": "2024-12-10T19:46:31Z"
+                    "size": 962328,
+                    "date_published": "2025-01-05T11:59:49Z"
                 }
             ]
         },
@@ -8016,13 +8016,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ProjRed-4.10.5-GTNH.jar",
+                    "file_name": "ProjRed-4.11.0-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.10.5-GTNH/ProjRed-4.10.5-GTNH.jar",
-                    "id": "193910377",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.0-GTNH/ProjRed-4.11.0-GTNH.jar",
+                    "id": "217791207",
                     "parent_id": "153626495",
-                    "size": 10450092,
-                    "date_published": "2024-09-20T21:24:19Z"
+                    "size": 10450507,
+                    "date_published": "2025-01-03T22:50:17Z"
                 }
             ]
         },
@@ -9732,13 +9732,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TConstruct-1.13.2-GTNH.jar",
+                    "file_name": "TConstruct-1.13.3-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.2-GTNH/TConstruct-1.13.2-GTNH.jar",
-                    "id": "217399764",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.3-GTNH/TConstruct-1.13.3-GTNH.jar",
+                    "id": "218126436",
                     "parent_id": "53168432",
-                    "size": 5722498,
-                    "date_published": "2025-01-02T13:05:09Z"
+                    "size": 5722502,
+                    "date_published": "2025-01-05T11:31:24Z"
                 }
             ]
         },
@@ -10528,13 +10528,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "WR-CBE-1.6.1.jar",
+                    "file_name": "WR-CBE-1.7.0.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.6.1/WR-CBE-1.6.1.jar",
-                    "id": "200715045",
+                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.0/WR-CBE-1.7.0.jar",
+                    "id": "217767116",
                     "parent_id": "230589423",
-                    "size": 336830,
-                    "date_published": "2024-10-21T20:06:28Z"
+                    "size": 336833,
+                    "date_published": "2025-01-03T21:00:06Z"
                 }
             ]
         },
@@ -11013,13 +11013,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TwilightForest-2.7.1.jar",
+                    "file_name": "TwilightForest-2.7.2.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.1/TwilightForest-2.7.1.jar",
-                    "id": "214006088",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.2/TwilightForest-2.7.2.jar",
+                    "id": "217768555",
                     "parent_id": "237507266",
-                    "size": 5423488,
-                    "date_published": "2024-12-17T18:26:06Z"
+                    "size": 5423809,
+                    "date_published": "2025-01-03T21:06:57Z"
                 }
             ]
         },
