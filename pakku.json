@@ -33,6 +33,17 @@
         },
         "GTNewHorizons/Mantle": {
             "redistributable": true
-        }
+        },
+        "ai-improvements": {},
+        "asp-gs-patcher": {},
+        "another-one-bites-the-dust": {},
+        "GTNewHorizons/Avaritia": {
+            "side": "CLIENT"
+        },
+        "asmc-performance-patch": {
+            "redistributable": true
+        },
+        "GTNewHorizons/AdventureBackpack2": {},
+        "custom-main-menu": {}
     }
 }
