@@ -34,17 +34,17 @@
         "GTNewHorizons/Mantle": {
             "redistributable": true
         },
-        "ai-improvements": {},
-        "asp-gs-patcher": {},
-        "another-one-bites-the-dust": {},
-        "GTNewHorizons/Avaritia": {
-            "side": "CLIENT"
+        "asp-gs-patcher": {
+            "update_strategy": "NONE"
         },
         "asmc-performance-patch": {
             "side": "CLIENT",
             "redistributable": true
         },
-        "GTNewHorizons/AdventureBackpack2": {},
-        "custom-main-menu": {}
+        "ai-improvements": {
+            "type": "RESOURCE_PACK"
+        },
+        "actually-additions": {},
+        "animationapi": {}
     }
 }
