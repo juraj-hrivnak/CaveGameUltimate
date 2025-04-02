@@ -41,7 +41,9 @@
             "side": "CLIENT",
             "redistributable": true
         },
-        "ai-improvements": {},
+        "ai-improvements": {
+            "type": "RESOURCE_PACK"
+        },
         "actually-additions": {},
         "animationapi": {},
         "better-burning": {},
