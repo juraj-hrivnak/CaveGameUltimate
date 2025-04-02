@@ -38,6 +38,7 @@
             "update_strategy": "NONE"
         },
         "asmc-performance-patch": {
+            "type": "RESOURCE_PACK",
             "side": "CLIENT",
             "redistributable": true
         },
