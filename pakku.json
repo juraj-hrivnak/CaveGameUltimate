@@ -38,8 +38,9 @@
             "update_strategy": "NONE"
         },
         "asmc-performance-patch": {},
-        "ai-improvements": {},
-        "actually-additions": {},
+        "ai-improvements": {
+            "type": "DATA_PACK"
+        },
         "animationapi": {},
         "better-burning": {},
         "GTNewHorizons/OpenModularTurrets": {}
