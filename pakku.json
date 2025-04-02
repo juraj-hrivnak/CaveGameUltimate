@@ -35,6 +35,7 @@
             "redistributable": true
         },
         "asp-gs-patcher": {
+            "side": "BOTH",
             "update_strategy": "NONE"
         },
         "asmc-performance-patch": {},
