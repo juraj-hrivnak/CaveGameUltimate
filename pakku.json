@@ -38,15 +38,7 @@
             "side": "BOTH",
             "update_strategy": "NONE"
         },
-        "asmc-performance-patch": {},
         "ai-improvements": {
-            "update_strategy": "NONE"
-        },
-        "animationapi": {},
-        "better-burning": {},
-        "GTNewHorizons/OpenModularTurrets": {},
-        "advanced-world-selection": {
-            "type": "RESOURCE_PACK",
             "update_strategy": "NONE"
         }
     }
