@@ -46,6 +46,9 @@
             "update_strategy": "NONE"
         },
         "careful-cast-corrector-ccc": {},
-        "archimedes-ships": {}
+        "archimedes-ships": {},
+        "ascribe": {},
+        "betterachievements": {},
+        "advanced-world-selection": {}
     }
 }
