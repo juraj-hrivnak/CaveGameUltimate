@@ -50,6 +50,9 @@
         "advanced-world-selection": {},
         "GTNewHorizons/AdventureBackpack2": {
             "side": "BOTH"
+        },
+        "asmc-performance-patch": {
+            "side": "BOTH"
         }
     }
 }
