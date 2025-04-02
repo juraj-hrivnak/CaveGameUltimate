@@ -37,11 +37,7 @@
         "asp-gs-patcher": {
             "update_strategy": "NONE"
         },
-        "asmc-performance-patch": {
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "redistributable": true
-        },
+        "asmc-performance-patch": {},
         "ai-improvements": {},
         "actually-additions": {},
         "animationapi": {},
