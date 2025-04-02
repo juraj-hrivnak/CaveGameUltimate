@@ -45,7 +45,8 @@
         "better-burning": {},
         "GTNewHorizons/OpenModularTurrets": {},
         "advanced-world-selection": {
-            "type": "RESOURCE_PACK"
+            "type": "RESOURCE_PACK",
+            "update_strategy": "NONE"
         }
     }
 }
