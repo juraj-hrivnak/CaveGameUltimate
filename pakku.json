@@ -44,6 +44,8 @@
         "actually-additions": {
             "side": "BOTH",
             "update_strategy": "NONE"
-        }
+        },
+        "careful-cast-corrector-ccc": {},
+        "archimedes-ships": {}
     }
 }
