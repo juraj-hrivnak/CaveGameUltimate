@@ -40,7 +40,7 @@
         },
         "asmc-performance-patch": {},
         "ai-improvements": {
-            "type": "DATA_PACK"
+            "update_strategy": "NONE"
         },
         "animationapi": {},
         "better-burning": {},
