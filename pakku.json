@@ -38,9 +38,7 @@
             "side": "BOTH",
             "update_strategy": "NONE"
         },
-        "ai-improvements": {
-            "update_strategy": "NONE"
-        },
+        "ai-improvements": {},
         "actually-additions": {
             "side": "BOTH",
             "update_strategy": "NONE"
