@@ -43,6 +43,9 @@
         },
         "animationapi": {},
         "better-burning": {},
-        "GTNewHorizons/OpenModularTurrets": {}
+        "GTNewHorizons/OpenModularTurrets": {},
+        "advanced-world-selection": {
+            "type": "RESOURCE_PACK"
+        }
     }
 }
