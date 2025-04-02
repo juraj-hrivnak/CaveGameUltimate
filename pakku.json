@@ -41,10 +41,10 @@
             "side": "CLIENT",
             "redistributable": true
         },
-        "ai-improvements": {
-            "type": "RESOURCE_PACK"
-        },
+        "ai-improvements": {},
         "actually-additions": {},
-        "animationapi": {}
+        "animationapi": {},
+        "better-burning": {},
+        "GTNewHorizons/OpenModularTurrets": {}
     }
 }
