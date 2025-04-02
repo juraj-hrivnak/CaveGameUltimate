@@ -47,6 +47,9 @@
         "archimedes-ships": {},
         "ascribe": {},
         "betterachievements": {},
-        "advanced-world-selection": {}
+        "advanced-world-selection": {},
+        "GTNewHorizons/AdventureBackpack2": {
+            "side": "BOTH"
+        }
     }
 }
