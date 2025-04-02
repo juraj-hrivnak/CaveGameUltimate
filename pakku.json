@@ -40,6 +40,10 @@
         },
         "ai-improvements": {
             "update_strategy": "NONE"
+        },
+        "actually-additions": {
+            "side": "BOTH",
+            "update_strategy": "NONE"
         }
     }
 }
