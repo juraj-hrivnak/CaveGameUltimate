@@ -34,8 +34,8 @@
         "GTNewHorizons/Mantle": {
             "redistributable": true
         },
-        "bookshelf": {},
-        "GTNewHorizons/ProjectRed": {},
-        "advanced-world-selection": {}
+        "GTNewHorizons/WirelessRedstone-CBE": {
+            "type": "MOD"
+        }
     }
 }

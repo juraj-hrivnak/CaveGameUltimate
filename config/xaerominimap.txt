@@ -7,7 +7,7 @@ debugEntityIcons:false
 debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
-minimap:false
+minimap:true
 caveMaps:3
 caveZoom:2
 showPlayers:false
@@ -25,8 +25,8 @@ oldDeathpoints:false
 distance:0
 showCoords:true
 lockNorth:false
-zoom:2
-minimapSize:113
+zoom:0
+minimapSize:151
 entityAmount:5
 chunkGrid:-1
 slimeChunks:false

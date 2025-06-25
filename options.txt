@@ -1,19 +1,19 @@
 invertYMouse:false
 mouseSensitivity:0.57746476
-fov:0.69230825
-gamma:1.0
+fov:0.69936025
+gamma:0.0
 saturation:0.0
-renderDistance:6
+renderDistance:12
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-maxFps:60
+maxFps:90
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
-ao:2
+ao:1
 clouds:false
 resourcePacks:["Modernity-format1-v3.8.1.zip"]
 lastServer:
@@ -267,12 +267,12 @@ key_key.fastBlockPlacing.desc:0
 key_Profile GUI:0
 key_Chunk loading minimap:0
 key_Chunk redraw visualization:0
-soundCategory_master:0.16556291
+soundCategory_master:0.5066225
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:0.70422536
+soundCategory_player:0.45070422
 soundCategory_ambient:1.0
