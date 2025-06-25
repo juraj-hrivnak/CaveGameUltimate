@@ -1,0 +1,2 @@
+Example file that would be in the mods folder. Server-side only
+Created by MCInstance Loader.
