@@ -85,7 +85,51 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_of.key.zoom:0
+key_key.container_interaction.desc:29
+key_key.wireless_extra_action.desc:29
+key_key.wireless_mode_switch.desc:15
+key_nei.options.keys.gui.enchant:45
+key_nei.options.keys.gui.potion:25
+key_nei.options.keys.gui.prev:201
+key_nei.options.keys.gui.next:209
+key_nei.options.keys.gui.hide:24
+key_nei.options.keys.gui.search:33
+key_nei.options.keys.gui.overlay:31
+key_nei.options.keys.gui.craft_items:46
+key_nei.options.keys.gui.getprevioussearch:200
+key_nei.options.keys.gui.getnextsearch:208
+key_nei.options.keys.gui.next_tooltip:44
+key_nei.options.keys.recipe.recipe:19
+key_nei.options.keys.recipe.usage:22
+key_nei.options.keys.recipe.back:14
+key_nei.options.keys.recipe.prev_machine:200
+key_nei.options.keys.recipe.next_machine:208
+key_nei.options.keys.recipe.prev_recipe:203
+key_nei.options.keys.recipe.next_recipe:205
+key_nei.options.keys.bookmark.add:30
+key_nei.options.keys.bookmark.favorite:33
+key_nei.options.keys.bookmark.favorite_item:33
+key_nei.options.keys.bookmark.remove_recipe:30
+key_nei.options.keys.bookmark.pull_items:47
+key_nei.options.keys.bookmark.chat_link:38
+key_nei.options.keys.bookmark.hide:48
+key_nei.options.keys.itemzoom.toggle:44
+key_nei.options.keys.itemzoom.hold:0
+key_nei.options.keys.itemzoom.zoom_in:0
+key_nei.options.keys.itemzoom.zoom_out:0
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.highlight_tips:82
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
+key_nei.options.keys.copy.name:46
+key_nei.options.keys.copy.oredict:32
+key_nei.options.keys.copy.identifier:45
 key_ALT Key:46:CONTROL
 key_Boost Key:48:CONTROL
 key_Mode Switch Key:36
@@ -93,6 +137,8 @@ key_Side Inventory Key:44:CONTROL
 key_IC2 Hub Expand Key:47:CONTROL
 key_key.toggle_focus.desc:15
 key_key.search_connected_inventories.desc:0
+key_key.pick_block.desc:0
+key_key.locate_item_flow.desc:0
 key_key.archimedes.up:45
 key_key.archimedes.down:44
 key_key.archimedes.brake:46
@@ -102,6 +148,10 @@ key_key.archimedes.shipinv:37
 key_key.betterquesting.quests:28
 key_cos.key.openCosArmorInventory:52
 key_NPC Inventory:38
+key_key.customnpcs.special:41
+key_key.customnpcs.abilityHudKey:56
+key_key.customnpcs.abilityNext:0
+key_key.customnpcs.abilityPrev:0
 key_doggytalents.key.come:209
 key_doggytalents.key.stay:209
 key_doggytalents.key.ok:209
@@ -171,6 +221,7 @@ key_key.tbelt:51
 key_key.tzoom:46
 key_keys.adventureBackpack.openInventory:41
 key_keys.adventureBackpack.toggleActions:49:CONTROL
+key_nei.options.keys.gui.pattern_view:25
 key_key.betterHud.open:210
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
@@ -187,6 +238,11 @@ key_Toggle Cull Tile Entities:50:ALT
 key_RV/FR Decrease:51
 key_RV/FR Increase:52
 key_Toggle Scale RD With Size:184
+key_pe.key.armor_toggle:207
+key_pe.key.charge:52
+key_pe.key.extra_function:46
+key_pe.key.fire_projectile:207
+key_pe.key.mode:34
 key_FpsReducer.key.guiOpen:73
 key_key.materialCosts:56
 key_key.clipboardPaste:210
@@ -216,11 +272,6 @@ key_Quick Commands:209
 key_key.fart.desc:207
 key_openmodslib.key.calc:13
 key_key.plonk.place.desc:25
-key_pe.key.armor_toggle:207
-key_pe.key.charge:52
-key_pe.key.extra_function:46
-key_pe.key.fire_projectile:207
-key_pe.key.mode:34
 key_Camera left:203
 key_Camera right:205
 key_Camera closer:200
@@ -265,11 +316,19 @@ key_railcraft.keybind.loco.faster:0
 key_railcraft.keybind.loco.slower:0
 key_railcraft.keybind.loco.mode:0
 key_railcraft.keybind.loco.whistle:0
+key_nei.options.keys.showenchant:23
 key_key.betterfoliage.gui:66
 key_key.fastBlockPlacing.desc:0
 key_Profile GUI:0
 key_Chunk loading minimap:0
 key_Chunk redraw visualization:0
+key_nei.options.keys.gui.tinkers_belt:0
+key_nei.options.keys.gui.botania_corporea_request:46
+key_nei.options.keys.gui.xu_ping:20
+key_nei.options.keys.nee.count:29
+key_nei.options.keys.nee.ingredient:42
+key_nei.options.keys.nee.preview:29
+key_nei.options.keys.nee.nopreview:56
 key_railcraft.keybind.aura.anchor:67
 key_railcraft.keybind.aura.tuning:25
 key_railcraft.keybind.aura.surveying:24

@@ -3529,6 +3529,42 @@
             ]
         },
         {
+            "pakku_id": "unvpnMLkzwCpitOx",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fmprojecte-fmpe"
+            },
+            "name": {
+                "curseforge": "FMProjectE (FMPE)"
+            },
+            "id": {
+                "curseforge": "406841"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FMProjectE-2.3.1.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7710/774/FMProjectE-2.3.1.jar",
+                    "id": "7710774",
+                    "parent_id": "406841",
+                    "hashes": {
+                        "sha1": "c0e0c9881e0c0ff34b9cb5d0b29b0abff97c7ac0",
+                        "md5": "a3751232ab9ea3241d12471461f6c2c2"
+                    },
+                    "required_dependencies": [],
+                    "size": 1392411,
+                    "date_published": "2026-03-04T16:48:19.210Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xT8V0NfTLVHktSAs",
             "type": "MOD",
             "side": "CLIENT",
@@ -3648,8 +3684,9 @@
             ]
         },
         {
-            "pakku_id": "XXLhXOb577afMH1n",
+            "pakku_id": "IkuNqQsr6reYcxtp",
             "pakku_links": [
+                "IVNsBK3bid4J6toh",
                 "Hx57GqjDAVYuZ91X"
             ],
             "type": "MOD",
@@ -3667,30 +3704,6 @@
                 "modrinth": "VTGi3upD"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "falsetweaks-mc1.7.10-4.4.5.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/EOCf7pGM/falsetweaks-mc1.7.10-4.4.5.jar",
-                    "id": "EOCf7pGM",
-                    "parent_id": "VTGi3upD",
-                    "hashes": {
-                        "sha512": "ba6fbaf8e573c8bd8efb57e25b4820abc9d65d1fe2e4c43519a7e5415708689c58a71a3c70ed6a98c8334a281e4eb17da42e35ed632ee919f296baaabfb5bfb7",
-                        "sha1": "67df3dc14a22a3726da715f2b7df09188fc0c2b4"
-                    },
-                    "required_dependencies": [
-                        "ghjoiQAl",
-                        "eGLBEILf"
-                    ],
-                    "size": 801446,
-                    "date_published": "2026-08-09T11:38:45.570339Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "falsetweaks-mc1.7.10-4.4.5.jar",
@@ -3714,6 +3727,30 @@
                     ],
                     "size": 780883,
                     "date_published": "2026-08-09T12:54:03.887Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "falsetweaks-mc1.7.10-4.4.5.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/EOCf7pGM/falsetweaks-mc1.7.10-4.4.5.jar",
+                    "id": "EOCf7pGM",
+                    "parent_id": "VTGi3upD",
+                    "hashes": {
+                        "sha512": "ba6fbaf8e573c8bd8efb57e25b4820abc9d65d1fe2e4c43519a7e5415708689c58a71a3c70ed6a98c8334a281e4eb17da42e35ed632ee919f296baaabfb5bfb7",
+                        "sha1": "67df3dc14a22a3726da715f2b7df09188fc0c2b4"
+                    },
+                    "required_dependencies": [
+                        "ghjoiQAl",
+                        "eGLBEILf"
+                    ],
+                    "size": 801446,
+                    "date_published": "2026-08-09T11:38:45.570339Z"
                 }
             ]
         },
@@ -7949,39 +7986,6 @@
                     ],
                     "size": 728277,
                     "date_published": "2016-06-09T00:44:32.527Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "k2QmBd47gRKGsXW0",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "projecte"
-            },
-            "name": {
-                "curseforge": "ProjectE"
-            },
-            "id": {
-                "curseforge": "226410"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "ProjectE-1.7.10-PE1.10.1.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2340/786/ProjectE-1.7.10-PE1.10.1.jar",
-                    "id": "2340786",
-                    "parent_id": "226410",
-                    "hashes": {
-                        "sha1": "b1c4927d708447cd8829e06b9fdbc8a2535b1c02",
-                        "md5": "850a5bb358e8dcea14310064fb36b587"
-                    },
-                    "required_dependencies": [],
-                    "size": 1380486,
-                    "date_published": "2016-10-31T16:45:59.687Z"
                 }
             ]
         },

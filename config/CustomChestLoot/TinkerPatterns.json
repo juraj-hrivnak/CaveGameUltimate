@@ -1,0 +1,105 @@
+{
+  "_name": "TinkerPatterns",
+  "min": 5,
+  "max": 30,
+  "loot": [
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 1,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 3,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 4,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 5,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 7,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 8,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 9,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 10,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 11,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 12,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 20,
+      "id": "TConstruct:woodPattern",
+      "damage": 13,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 40,
+      "id": "TConstruct:woodPattern",
+      "damage": 22,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

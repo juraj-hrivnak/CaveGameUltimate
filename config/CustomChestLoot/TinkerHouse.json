@@ -1,0 +1,1022 @@
+{
+  "_name": "TinkerHouse",
+  "min": 3,
+  "max": 27,
+  "loot": [
+    {
+      "weight": 1,
+      "id": "TConstruct:heartCanister",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:pickaxeHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:shovelHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:hatchetHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:binding",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:swordBlade",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:wideGuard",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:handGuard",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:crossbar",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:knifeBlade",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:frypanHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:signHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 9,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 13,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 14,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "TConstruct:chiselHead",
+      "damage": 17,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}
