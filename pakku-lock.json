@@ -199,13 +199,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "adventurebackpack-1.2.4-GTNH.jar",
+                    "file_name": "adventurebackpack-1.4.25-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.2.4-GTNH/adventurebackpack-1.2.4-GTNH.jar",
-                    "id": "207308714",
+                    "url": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.4.25-GTNH/adventurebackpack-1.4.25-GTNH.jar",
+                    "id": "524565243",
                     "parent_id": "118441114",
-                    "size": 3349774,
-                    "date_published": "2024-11-18T11:02:10Z"
+                    "hashes": {
+                        "sha256": "41fb446339fe031b454fe6fbd8ede1cd93781bd6f41a26907aab9a6d4b8ab27f"
+                    },
+                    "size": 3232477,
+                    "date_published": "2026-08-22T02:51:02Z"
                 }
             ]
         },
@@ -324,13 +327,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "appliedenergistics2-rv3-beta-519-GTNH-pre.jar",
+                    "file_name": "appliedenergistics2-rv3-beta-1041-GTNH.jar",
                     "release_type": "beta",
-                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-519-GTNH-pre/appliedenergistics2-rv3-beta-519-GTNH-pre.jar",
-                    "id": "217763285",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1041-GTNH/appliedenergistics2-rv3-beta-1041-GTNH.jar",
+                    "id": "527764819",
                     "parent_id": "123942395",
-                    "size": 3626653,
-                    "date_published": "2025-01-03T20:39:38Z"
+                    "hashes": {
+                        "sha256": "48a97fd5ffc968c3c449cba0cb9fab2ed4791e66ebf8b14aeda9fb305dd8793d"
+                    },
+                    "size": 4847240,
+                    "date_published": "2026-08-24T15:02:53Z"
                 }
             ]
         },
@@ -422,7 +428,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "archaicfix-0.7.4.jar",
+                    "file_name": "archaicfix-0.8.0.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -430,22 +436,22 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/xTJanN3v/versions/k1XUuvSh/archaicfix-0.7.4.jar",
-                    "id": "k1XUuvSh",
+                    "url": "https://cdn.modrinth.com/data/xTJanN3v/versions/pHrxpfYF/archaicfix-0.8.0.jar",
+                    "id": "pHrxpfYF",
                     "parent_id": "xTJanN3v",
                     "hashes": {
-                        "sha512": "59deb80d7c9ca390086ef030cb7079607db57803cfd233a4dca63e4b81248521e72448756a021b3a8fd18bfaec017f012535dbd5a13e32ea048c38f9a8a777e5",
-                        "sha1": "83d877e249981415a3fb580e0cdc8ba19be33bcc"
+                        "sha512": "d55f3f2611533cc01e7e2463110c011281574a3a5abc6334b6ed8929f8288b3f23ae74687b0b51c1fda7d4562bd842205c0964523a852120206c5cc96027c414",
+                        "sha1": "bc23c0b52560089424d84c1ff4e9ac1d04fb83e4"
                     },
                     "required_dependencies": [
                         "ghjoiQAl"
                     ],
-                    "size": 292792,
-                    "date_published": "2024-07-20T22:08:35.052758Z"
+                    "size": 293536,
+                    "date_published": "2026-05-21T23:33:08.658888Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "archaicfix-0.7.4.jar",
+                    "file_name": "archaicfix-0.8.0.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -453,18 +459,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5549/709/archaicfix-0.7.4.jar",
-                    "id": "5549709",
+                    "url": "https://edge.forgecdn.net/files/8125/364/archaicfix-0.8.0.jar",
+                    "id": "8125364",
                     "parent_id": "677782",
                     "hashes": {
-                        "sha1": "83d877e249981415a3fb580e0cdc8ba19be33bcc",
-                        "md5": "d7d20b116dc1e6e51d38934a7afa154e"
+                        "sha1": "bc23c0b52560089424d84c1ff4e9ac1d04fb83e4",
+                        "md5": "88f2d4ebe3dcfa9457b4953acf6b9677"
                     },
                     "required_dependencies": [
                         "826970"
                     ],
-                    "size": 292792,
-                    "date_published": "2024-07-20T22:08:35.697Z"
+                    "size": 293536,
+                    "date_published": "2026-05-21T23:33:09.243Z"
                 }
             ]
         },
@@ -615,13 +621,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Avaritia-1.59.jar",
+                    "file_name": "Avaritia-1.99.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.59/Avaritia-1.59.jar",
-                    "id": "216798798",
+                    "url": "https://github.com/GTNewHorizons/Avaritia/releases/download/1.99/Avaritia-1.99.jar",
+                    "id": "505252607",
                     "parent_id": "83585889",
-                    "size": 918903,
-                    "date_published": "2024-12-30T19:28:13Z"
+                    "hashes": {
+                        "sha256": "ab92ad6d0a6b49f3fc43b9705cdfd591d9b0e4723112852e7e5352aa1b61316e"
+                    },
+                    "size": 859920,
+                    "date_published": "2026-08-07T14:25:15Z"
                 }
             ]
         },
@@ -1011,13 +1020,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "BetterBuildersWands-0.12.0-GTNH.jar",
+                    "file_name": "BetterBuildersWands-0.13.12-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.12.0-GTNH/BetterBuildersWands-0.12.0-GTNH.jar",
-                    "id": "170179546",
+                    "url": "https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.13.12-GTNH/BetterBuildersWands-0.13.12-GTNH.jar",
+                    "id": "526448476",
                     "parent_id": "441675244",
-                    "size": 62050,
-                    "date_published": "2024-05-26T13:15:51Z"
+                    "hashes": {
+                        "sha256": "dceb7196b1e1435db92b7c6cc20338095da757f9674a35ff22e46788816f253f"
+                    },
+                    "size": 79930,
+                    "date_published": "2026-08-23T17:20:29Z"
                 }
             ]
         },
@@ -1036,13 +1048,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "BetterQuesting-3.7.2-GTNH.jar",
+                    "file_name": "BetterQuesting-3.8.80-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.2-GTNH/BetterQuesting-3.7.2-GTNH.jar",
-                    "id": "217771103",
+                    "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.80-GTNH/BetterQuesting-3.8.80-GTNH.jar",
+                    "id": "527765179",
                     "parent_id": "113160587",
-                    "size": 1887457,
-                    "date_published": "2025-01-03T21:19:23Z"
+                    "hashes": {
+                        "sha256": "46d9db48f512ffa0e2f9670c80098252af8ac98ab8b61bca127eb8a6210ef6bf"
+                    },
+                    "size": 1989129,
+                    "date_published": "2026-08-24T15:03:10Z"
                 }
             ]
         },
@@ -1386,7 +1401,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "bugtorch-1.2.13.jar",
+                    "file_name": "bugtorch-1.2.14.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1394,18 +1409,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6su8A6OH/versions/6HgNiu8e/bugtorch-1.2.13.jar",
-                    "id": "6HgNiu8e",
+                    "url": "https://cdn.modrinth.com/data/6su8A6OH/versions/lKTW0So5/bugtorch-1.2.14.jar",
+                    "id": "lKTW0So5",
                     "parent_id": "6su8A6OH",
                     "hashes": {
-                        "sha512": "72834169b561f722e52825fef5e0f8e6f2852deb2d84341bde904f89f4bf1d2dcc388af261d8d360051dbec7244b1845ceac78a82c4dc6fef4c888d491057bad",
-                        "sha1": "2c54bfab9b6070ab09466d50806fbb8a34dde2e6"
+                        "sha512": "b0b2fa9a15c90ea2c59f3c037972a4d0f5d9e369c99beae4859334e6016eb92c7ecd3c50c30f2332f602e21ea91b843c5d47c0d818eb797a163ec2dfbd36d358",
+                        "sha1": "af7335bf296b80ec018080078e1c050f56db1013"
                     },
                     "required_dependencies": [
                         "ghjoiQAl"
                     ],
-                    "size": 154985,
-                    "date_published": "2024-04-17T05:43:20.720472Z"
+                    "size": 148552,
+                    "date_published": "2025-03-17T15:12:05.258515Z"
                 }
             ]
         },
@@ -1428,7 +1443,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "buildcraft-7.1.26.jar",
+                    "file_name": "buildcraft-7.1.27.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1436,20 +1451,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6X5wjPTJ/versions/BiTYhSlB/buildcraft-7.1.26.jar",
-                    "id": "BiTYhSlB",
+                    "url": "https://cdn.modrinth.com/data/6X5wjPTJ/versions/piN3RkPa/buildcraft-7.1.27.jar",
+                    "id": "piN3RkPa",
                     "parent_id": "6X5wjPTJ",
                     "hashes": {
-                        "sha512": "969ed17f6fa864c992d03fd3283a78dc0f9b3b994138413e93ab96001e19bbb859029596b238ef91620f2bc5ad1f86bca2a66ab13311dd29904171475846cecd",
-                        "sha1": "6dcce6d702fe8733b89681e088121dc1233fb154"
+                        "sha512": "cad6df9c899fc2d401fed888d386a140fa30367b92782c0b01d4a0485e10cb8affff8e951fe2aebd8ee70269660b60cd42546c0aa1178e69cc371a4c92256e84",
+                        "sha1": "2519edb9bbee1ea841829057265d683764f13c79"
                     },
                     "required_dependencies": [],
-                    "size": 2708847,
-                    "date_published": "2023-06-14T19:28:04.707072Z"
+                    "size": 2561047,
+                    "date_published": "2025-02-26T19:43:34.260972Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "buildcraft-7.1.25.jar",
+                    "file_name": "buildcraft-7.1.27.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1457,16 +1472,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4055/732/buildcraft-7.1.25.jar",
-                    "id": "4055732",
+                    "url": "https://edge.forgecdn.net/files/6240/755/buildcraft-7.1.27.jar",
+                    "id": "6240755",
                     "parent_id": "61811",
                     "hashes": {
-                        "sha1": "21e934ff5bd74c9e62469b2f4ae9379036d484b5",
-                        "md5": "901fcd2766b012b29249c14b47925cc5"
+                        "sha1": "2519edb9bbee1ea841829057265d683764f13c79",
+                        "md5": "d54ea30a7c0aecdd0e322c742cc45c86"
                     },
                     "required_dependencies": [],
-                    "size": 2709948,
-                    "date_published": "2022-10-29T00:49:24.300Z"
+                    "size": 2561047,
+                    "date_published": "2025-02-26T19:43:56.717Z"
                 }
             ]
         },
@@ -1489,7 +1504,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "buildcraft-compat-7.1.8.jar",
+                    "file_name": "buildcraft-compat-7.1.9.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1497,22 +1512,22 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yp1R2apI/versions/A7Ic8NJr/buildcraft-compat-7.1.8.jar",
-                    "id": "A7Ic8NJr",
+                    "url": "https://cdn.modrinth.com/data/yp1R2apI/versions/7gHdRW4A/buildcraft-compat-7.1.9.jar",
+                    "id": "7gHdRW4A",
                     "parent_id": "yp1R2apI",
                     "hashes": {
-                        "sha512": "ea993cc2a461837bcfe8febbd200aaeeda4fcb16e6a82d9b93cc5b918c03c7af330bffb0f81c68a7a4edc06364f5ee7160cdcf96f6adfdca28568002fdfe9112",
-                        "sha1": "5e5f8d2106e44b9fd695d203d8ab258fd14f06bd"
+                        "sha512": "e76b494bb0f5880af30fe684a70ab43eb2ba673605242014214dd51495b98b40df1c732c9dedb4a56f6a2f2f726abd746b1393e50400576bcfc74c944045b667",
+                        "sha1": "82e6016362618a6d3187bb3629860185458e3603"
                     },
                     "required_dependencies": [
-                        "6X5wjPTJ"
+                        "2YsMgHdw"
                     ],
-                    "size": 264295,
-                    "date_published": "2023-02-01T23:25:59.931879Z"
+                    "size": 271111,
+                    "date_published": "2025-02-26T19:44:30.241618Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "buildcraft-compat-7.1.8.jar",
+                    "file_name": "buildcraft-compat-7.1.9.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1520,18 +1535,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/3538/654/buildcraft-compat-7.1.8.jar",
-                    "id": "3538654",
+                    "url": "https://edge.forgecdn.net/files/6240/758/buildcraft-compat-7.1.9.jar",
+                    "id": "6240758",
                     "parent_id": "233140",
                     "hashes": {
-                        "sha1": "5e5f8d2106e44b9fd695d203d8ab258fd14f06bd",
-                        "md5": "ce61726b4fe5ea33e16592fe7165e989"
+                        "sha1": "82e6016362618a6d3187bb3629860185458e3603",
+                        "md5": "27b273d7cd052044a0a9605e11d8adde"
                     },
                     "required_dependencies": [
                         "231305"
                     ],
-                    "size": 264295,
-                    "date_published": "2021-11-27T14:25:19.877Z"
+                    "size": 271111,
+                    "date_published": "2025-02-26T19:44:31.387Z"
                 }
             ]
         },
@@ -1915,13 +1930,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "chisel-2.16.1-GTNH.jar",
+                    "file_name": "chisel-2.17.32-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.16.1-GTNH/chisel-2.16.1-GTNH.jar",
-                    "id": "216953958",
+                    "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.32-GTNH/chisel-2.17.32-GTNH.jar",
+                    "id": "507376533",
                     "parent_id": "237677184",
-                    "size": 6484908,
-                    "date_published": "2024-12-31T13:50:47Z"
+                    "hashes": {
+                        "sha256": "63a533d5aa7d78b9201daf739a5555520ad4ae81cb017fe1115d6c386ff47cf1"
+                    },
+                    "size": 7607474,
+                    "date_published": "2026-08-09T10:05:12Z"
                 }
             ]
         },
@@ -1980,7 +1998,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chunkapi-mc1.7.10-0.6.0.jar",
+                    "file_name": "chunkapi-mc1.7.10-0.8.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1988,23 +2006,22 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y0vBUOla/versions/YqDiSOlv/chunkapi-mc1.7.10-0.6.0.jar",
-                    "id": "YqDiSOlv",
+                    "url": "https://cdn.modrinth.com/data/y0vBUOla/versions/Rgquiehg/chunkapi-mc1.7.10-0.8.4.jar",
+                    "id": "Rgquiehg",
                     "parent_id": "y0vBUOla",
                     "hashes": {
-                        "sha512": "b98bdef91c539a852dc8f2c1693efb9cc838169bccfe65b0c8e2274b81b6cfe4b7eefb7042a6e361d388dbd8a01f4b21fcf32c649b2d6d717c8aa60846a04e6c",
-                        "sha1": "9715b11fba67ad26cceee4a2b0c8ba73a5024a47"
+                        "sha512": "daafb9c2dfd841e1971b95a6a31296ec971fdb815da4115041b4ea6497ae5fd332d2404980a0a00e3d1683ab781fd78645d2dd64a22357aa622a52ede3b5b8ce",
+                        "sha1": "e3d1b972388cbda06280357caace4a87a08802dd"
                     },
                     "required_dependencies": [
-                        "eGLBEILf",
                         "ghjoiQAl"
                     ],
-                    "size": 74016,
-                    "date_published": "2024-12-09T18:05:31.420547Z"
+                    "size": 473162,
+                    "date_published": "2026-07-27T20:31:10.167157Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "chunkapi-mc1.7.10-0.6.0.jar",
+                    "file_name": "chunkapi-mc1.7.10-0.8.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2012,19 +2029,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5977/783/chunkapi-mc1.7.10-0.6.0.jar",
-                    "id": "5977783",
+                    "url": "https://edge.forgecdn.net/files/8609/71/chunkapi-mc1.7.10-0.8.4.jar",
+                    "id": "8609071",
                     "parent_id": "844484",
                     "hashes": {
-                        "sha1": "9715b11fba67ad26cceee4a2b0c8ba73a5024a47",
-                        "md5": "148ea1faadeeaff835722b8b2d796174"
+                        "sha1": "e3d1b972388cbda06280357caace4a87a08802dd",
+                        "md5": "c7fdbc20e18eb62ac1ccc903fa05cfbc"
                     },
                     "required_dependencies": [
-                        "665627",
                         "826970"
                     ],
-                    "size": 74016,
-                    "date_published": "2024-12-09T18:05:24.950Z"
+                    "size": 473162,
+                    "date_published": "2026-08-09T12:55:56.070Z"
                 }
             ]
         },
@@ -2171,7 +2187,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CodeChickenCore-1.4.0.jar",
+                    "file_name": "CodeChickenCore-1.4.18.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2179,20 +2195,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qMOdaUOs/versions/Pu2Qvkoe/CodeChickenCore-1.4.0.jar",
-                    "id": "Pu2Qvkoe",
+                    "url": "https://cdn.modrinth.com/data/qMOdaUOs/versions/n92gOh2o/CodeChickenCore-1.4.18.jar",
+                    "id": "n92gOh2o",
                     "parent_id": "qMOdaUOs",
                     "hashes": {
-                        "sha512": "effa1fb55186b2c1d7ded70c751b51e64a43bc2d45e8a8d299d9303513fe8c69ea811ce0682566660b1be21a523a00471d5e947349bb7b0950bdab0c3798b8e2",
-                        "sha1": "e7ada43a0146d20775547e0dd76fddaa80cf422f"
+                        "sha512": "81541969d50ded5e43d8cb723c606e744ea97ce3338bc6b4c1e43cdda61541e8555e65b9085d6b08d8cb69fe25f3c87cedee2c47cf086694ad73261c56582636",
+                        "sha1": "c9cf9a026f49f5775e9b33e4cc4429db8285b597"
                     },
                     "required_dependencies": [],
-                    "size": 450566,
-                    "date_published": "2024-12-22T00:41:52.228983Z"
+                    "size": 452765,
+                    "date_published": "2026-08-23T09:37:59.681647Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "CodeChickenCore-1.4.0.jar",
+                    "file_name": "CodeChickenCore-1.4.16.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2200,16 +2216,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6012/97/CodeChickenCore-1.4.0.jar",
-                    "id": "6012097",
+                    "url": "https://edge.forgecdn.net/files/8259/668/CodeChickenCore-1.4.16.jar",
+                    "id": "8259668",
                     "parent_id": "746279",
                     "hashes": {
-                        "sha1": "e7ada43a0146d20775547e0dd76fddaa80cf422f",
-                        "md5": "82bf90d6eb0cd4e72057248c21b1b0bc"
+                        "sha1": "4670dd1edbcf12414d929444f8c8a4effde8dd62",
+                        "md5": "9fd8fb8da4b6642affe00e9e3eff8bac"
                     },
                     "required_dependencies": [],
-                    "size": 450566,
-                    "date_published": "2024-12-22T00:41:53.807Z"
+                    "size": 450201,
+                    "date_published": "2026-06-16T17:38:44.063Z"
                 }
             ]
         },
@@ -2811,7 +2827,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CustomNPC-Plus-1.9.3.jar",
+                    "file_name": "CustomNPC-Plus-1.11.1.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2819,20 +2835,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dXMq6syh/versions/phHjUIUS/CustomNPC-Plus-1.9.3.jar",
-                    "id": "phHjUIUS",
+                    "url": "https://cdn.modrinth.com/data/dXMq6syh/versions/RtMxVKPM/CustomNPC-Plus-1.11.1.jar",
+                    "id": "RtMxVKPM",
                     "parent_id": "dXMq6syh",
                     "hashes": {
-                        "sha512": "7008ca15e3b3484d12e4b00e7ff2bf7bc99cea771bcfc45848f764e475e716309de4c28e730121a12c250757ce504d3bc47c0f4d4fdca1d4c74774b74de9a04d",
-                        "sha1": "80e3f33711f3dd4d80927dec65fcdc40c9466903"
+                        "sha512": "472b30eab7b4fbf098b72e30740b7e87cddb2a3355dfb55a481b6bfef6bd594d66827adb21ffc8adb1548768f8ca6877aaf415dfc9dec320f83c8fcd321667f1",
+                        "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9"
                     },
                     "required_dependencies": [],
-                    "size": 12796695,
-                    "date_published": "2024-09-30T22:40:12.192369Z"
+                    "size": 17834817,
+                    "date_published": "2026-03-13T21:32:29.764537Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "CustomNPC-Plus-1.9.3.jar",
+                    "file_name": "CustomNPC-Plus-1.11.1.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2840,16 +2856,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5772/24/CustomNPC-Plus-1.9.3.jar",
-                    "id": "5772024",
+                    "url": "https://edge.forgecdn.net/files/7753/130/CustomNPC-Plus-1.11.1.jar",
+                    "id": "7753130",
                     "parent_id": "480951",
                     "hashes": {
-                        "sha1": "80e3f33711f3dd4d80927dec65fcdc40c9466903",
-                        "md5": "03340aeabb249c3b96521f129b9dfb2a"
+                        "sha1": "d89d75727efd9ea843ab1c22bddf2c808d2cc5c9",
+                        "md5": "72c4fc0cf7c0df57a57f43c993442d8a"
                     },
                     "required_dependencies": [],
-                    "size": 12796695,
-                    "date_published": "2024-09-30T22:40:01.717Z"
+                    "size": 17834817,
+                    "date_published": "2026-03-13T21:32:22.523Z"
                 }
             ]
         },
@@ -3293,7 +3309,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "endlessids-mc1.7.10-1.6.2.jar",
+                    "file_name": "endlessids-mc1.7.10-1.7.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3301,24 +3317,24 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qGHY4QGo/versions/26vFFYZj/endlessids-mc1.7.10-1.6.2.jar",
-                    "id": "26vFFYZj",
+                    "url": "https://cdn.modrinth.com/data/qGHY4QGo/versions/U7efAnFt/endlessids-mc1.7.10-1.7.4.jar",
+                    "id": "U7efAnFt",
                     "parent_id": "qGHY4QGo",
                     "hashes": {
-                        "sha512": "e2c51a48332e5f383b504a1e9d35e17691ca9b4bb65835318b968f5edfdef74f3aef8b1bfe43cea7c384b1c2bf1e9f9a46dee579050188c89f371d524b1bd0aa",
-                        "sha1": "5c73517e22c82b8d626ef1ee8c284ea018e87a97"
+                        "sha512": "7a3c8461e0902e9e6cc76a3dadb80fa9c07c440729018b7953b9ff2e0641049c5964542a914da6ca5b80627a0bceeccbad45a321bf67ad568f68dfaed1c782fd",
+                        "sha1": "6a0ec763e3f49f46f407d040ec364c4bed5c928b"
                     },
                     "required_dependencies": [
-                        "eGLBEILf",
                         "ghjoiQAl",
+                        "eGLBEILf",
                         "y0vBUOla"
                     ],
-                    "size": 286987,
-                    "date_published": "2024-12-25T22:22:29.662580Z"
+                    "size": 358400,
+                    "date_published": "2026-05-30T14:13:11.643231Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "endlessids-mc1.7.10-1.6.2.jar",
+                    "file_name": "endlessids-mc1.7.10-1.7.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3326,20 +3342,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6023/211/endlessids-mc1.7.10-1.6.2.jar",
-                    "id": "6023211",
+                    "url": "https://edge.forgecdn.net/files/8169/819/endlessids-mc1.7.10-1.7.4.jar",
+                    "id": "8169819",
                     "parent_id": "665730",
                     "hashes": {
-                        "sha1": "5c73517e22c82b8d626ef1ee8c284ea018e87a97",
-                        "md5": "ce5a02e1f05d336ef253d1ad2231213d"
+                        "sha1": "6a0ec763e3f49f46f407d040ec364c4bed5c928b",
+                        "md5": "f3ec3f2388c90d387c7166ea43aac470"
                     },
                     "required_dependencies": [
-                        "665627",
                         "826970",
-                        "844484"
+                        "844484",
+                        "665627"
                     ],
-                    "size": 286987,
-                    "date_published": "2024-12-25T22:22:24.027Z"
+                    "size": 358400,
+                    "date_published": "2026-05-30T14:13:06.247Z"
                 }
             ]
         },
@@ -3589,7 +3605,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "falsepatternlib-mc1.7.10-1.5.8.jar",
+                    "file_name": "falsepatternlib-mc1.7.10-1.12.2.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3597,20 +3613,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eGLBEILf/versions/O9xbDcS8/falsepatternlib-mc1.7.10-1.5.8.jar",
-                    "id": "O9xbDcS8",
+                    "url": "https://cdn.modrinth.com/data/eGLBEILf/versions/DfcXtSn9/falsepatternlib-mc1.7.10-1.12.2.jar",
+                    "id": "DfcXtSn9",
                     "parent_id": "eGLBEILf",
                     "hashes": {
-                        "sha512": "711dff25f42f4ecfaf4edbd54a78ae7d1a1f48e5b564531c31713f21e47946f7c2c20dcf0534d3a2675a836d91bf0b88379274491a5f3263ae4c892b6c0603e6",
-                        "sha1": "5c53c2da110c691b42fe34936b161857045c3638"
+                        "sha512": "7a1ac49e64c5de60ae98c2c6ef2232254af234930b91b7d6389c471f09ab313819391ca2aada3cdd622acf32bb17643322c3a0086024c260e86c2369da722086",
+                        "sha1": "9ec3ae13ef669b55173739eb49178050356cfbc7"
                     },
                     "required_dependencies": [],
-                    "size": 922038,
-                    "date_published": "2024-12-31T17:39:30.389728Z"
+                    "size": 994672,
+                    "date_published": "2026-05-30T14:03:36.782383Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "falsepatternlib-mc1.7.10-1.5.8.jar",
+                    "file_name": "falsepatternlib-mc1.7.10-1.12.2.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3618,16 +3634,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6040/344/falsepatternlib-mc1.7.10-1.5.8.jar",
-                    "id": "6040344",
+                    "url": "https://edge.forgecdn.net/files/8169/770/falsepatternlib-mc1.7.10-1.12.2.jar",
+                    "id": "8169770",
                     "parent_id": "665627",
                     "hashes": {
-                        "sha1": "5c53c2da110c691b42fe34936b161857045c3638",
-                        "md5": "973659540e3bcd07f0b72e224334af47"
+                        "sha1": "9ec3ae13ef669b55173739eb49178050356cfbc7",
+                        "md5": "32ee65674c44e61980329df9963d4b26"
                     },
                     "required_dependencies": [],
-                    "size": 922038,
-                    "date_published": "2024-12-31T17:39:24.457Z"
+                    "size": 994672,
+                    "date_published": "2026-05-30T14:03:31.263Z"
                 }
             ]
         },
@@ -3653,7 +3669,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "falsetweaks-mc1.7.10-3.8.4.jar",
+                    "file_name": "falsetweaks-mc1.7.10-4.4.5.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3661,23 +3677,23 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/kfLU5shQ/falsetweaks-mc1.7.10-3.8.4.jar",
-                    "id": "kfLU5shQ",
+                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/EOCf7pGM/falsetweaks-mc1.7.10-4.4.5.jar",
+                    "id": "EOCf7pGM",
                     "parent_id": "VTGi3upD",
                     "hashes": {
-                        "sha512": "d949ca6a19801dcb99c3adac6c737aabd37ace3d334bfb1db749b5ff41a8523e2d0b185252b6567308c99142450d90763cc75a618c097e4a13df59d9bae1cf6d",
-                        "sha1": "5325586edd13eb4af09c9ca91924e272a98bcc6a"
+                        "sha512": "ba6fbaf8e573c8bd8efb57e25b4820abc9d65d1fe2e4c43519a7e5415708689c58a71a3c70ed6a98c8334a281e4eb17da42e35ed632ee919f296baaabfb5bfb7",
+                        "sha1": "67df3dc14a22a3726da715f2b7df09188fc0c2b4"
                     },
                     "required_dependencies": [
                         "ghjoiQAl",
                         "eGLBEILf"
                     ],
-                    "size": 631301,
-                    "date_published": "2024-12-31T15:28:45.061594Z"
+                    "size": 801446,
+                    "date_published": "2026-08-09T11:38:45.570339Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "falsetweaks-mc1.7.10-3.8.4.jar",
+                    "file_name": "falsetweaks-mc1.7.10-4.4.5.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3685,19 +3701,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6039/961/falsetweaks-mc1.7.10-3.8.4.jar",
-                    "id": "6039961",
+                    "url": "https://edge.forgecdn.net/files/8609/66/falsetweaks-mc1.7.10-4.4.5.jar",
+                    "id": "8609066",
                     "parent_id": "665744",
                     "hashes": {
-                        "sha1": "5325586edd13eb4af09c9ca91924e272a98bcc6a",
-                        "md5": "650bb05cb927ae3e7d9959cb519c98f6"
+                        "sha1": "678a1b69443c1cfe3037cb86e350bd6a23de5267",
+                        "md5": "24ac3d738d89e1442e179da493c65fb0"
                     },
                     "required_dependencies": [
                         "665627",
                         "826970"
                     ],
-                    "size": 631301,
-                    "date_published": "2024-12-31T15:28:38.723Z"
+                    "size": 780883,
+                    "date_published": "2026-08-09T12:54:03.887Z"
                 }
             ]
         },
@@ -3818,37 +3834,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "!mod-director-launchwrapper-1.8.3.jar",
-                    "mc_versions": [
-                        "1.7.6",
-                        "1.7.4",
-                        "1.7.7",
-                        "1.7.5",
-                        "1.7.9",
-                        "1.7.3",
-                        "1.7.2",
-                        "1.7.8",
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5272/359/!mod-director-launchwrapper-1.8.3.jar",
-                    "id": "5272359",
-                    "parent_id": "650242",
-                    "hashes": {
-                        "sha1": "e00b900dc224c816289fb66716429f57a86c88dd",
-                        "md5": "3e28568ace82f864a1594366e1ac0ba1"
-                    },
-                    "required_dependencies": [],
-                    "size": 2917748,
-                    "date_published": "2024-04-18T15:41:00.840Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "!mod-director-launchwrapper-1.8.3.jar",
+                    "file_name": "!mod-director-launchwrapper-1.9.1.jar",
                     "mc_versions": [
                         "1.7.2",
                         "1.7.3",
@@ -3888,16 +3875,45 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4dRu1OUz/versions/b8pITnja/!mod-director-launchwrapper-1.8.3.jar",
-                    "id": "b8pITnja",
+                    "url": "https://cdn.modrinth.com/data/4dRu1OUz/versions/V3i1l5tv/!mod-director-launchwrapper-1.9.1.jar",
+                    "id": "V3i1l5tv",
                     "parent_id": "4dRu1OUz",
                     "hashes": {
-                        "sha512": "341c304d4545b8cf7a0e1a2d5907bfdaf5675904b104844f019670647a15e2aabcff56c44f0860d3a70b333fc301d7261b3fe6ae66b41b3de72d72d7048b87d0",
-                        "sha1": "e00b900dc224c816289fb66716429f57a86c88dd"
+                        "sha512": "6e1791da239353d62bf5913955a1b238dfc22a9028d9ce416a70a2431a8c7b04573024a6ec71035607ba71c91fd558738407321f02aa7fce4c05b3d07ccb53c9",
+                        "sha1": "13d7c102ae616f8fa74b4ce5f2d8cc26fc397026"
                     },
                     "required_dependencies": [],
-                    "size": 2917748,
-                    "date_published": "2024-04-18T15:44:56.627347Z"
+                    "size": 2926946,
+                    "date_published": "2025-04-18T17:44:08.717438Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "!mod-director-launchwrapper-1.9.1.jar",
+                    "mc_versions": [
+                        "1.7.4",
+                        "1.7.7",
+                        "1.7.6",
+                        "1.7.5",
+                        "1.7.3",
+                        "1.7.2",
+                        "1.7.9",
+                        "1.7.10",
+                        "1.7.8"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6436/962/!mod-director-launchwrapper-1.9.1.jar",
+                    "id": "6436962",
+                    "parent_id": "650242",
+                    "hashes": {
+                        "sha1": "13d7c102ae616f8fa74b4ce5f2d8cc26fc397026",
+                        "md5": "773afe782e56ad0aeaa22b5243b61c9c"
+                    },
+                    "required_dependencies": [],
+                    "size": 2926946,
+                    "date_published": "2025-04-18T17:43:09.013Z"
                 }
             ]
         },
@@ -4111,13 +4127,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Forestry-4.10.1.jar",
+                    "file_name": "Forestry-4.11.36.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.1/Forestry-4.10.1.jar",
-                    "id": "216951668",
+                    "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.36/Forestry-4.11.36.jar",
+                    "id": "513639882",
                     "parent_id": "136514102",
-                    "size": 3388768,
-                    "date_published": "2024-12-31T13:27:03Z"
+                    "hashes": {
+                        "sha256": "78daf273c4d112324ea7fb3ad9fbac99ecd088c1b78982811deebd58da712d6f"
+                    },
+                    "size": 3396314,
+                    "date_published": "2026-08-13T23:12:38Z"
                 }
             ]
         },
@@ -4137,13 +4156,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ForgeMultipart-1.6.0.jar",
+                    "file_name": "ForgeMultipart-1.7.12.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.0/ForgeMultipart-1.6.0.jar",
-                    "id": "216959810",
+                    "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.12/ForgeMultipart-1.7.12.jar",
+                    "id": "512834442",
                     "parent_id": "345408854",
-                    "size": 958717,
-                    "date_published": "2024-12-31T14:43:19Z"
+                    "hashes": {
+                        "sha256": "024d3d932b4a4876b75324bbf49eda2b6b5f5c7d48667e14a800c36bd9a45ba7"
+                    },
+                    "size": 950348,
+                    "date_published": "2026-08-13T10:18:47Z"
                 }
             ]
         },
@@ -4162,13 +4184,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ForgeRelocation-0.3.1.jar",
+                    "file_name": "ForgeRelocation-0.3.7.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.1/ForgeRelocation-0.3.1.jar",
-                    "id": "217786321",
+                    "url": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.7/ForgeRelocation-0.3.7.jar",
+                    "id": "500892010",
                     "parent_id": "577954814",
-                    "size": 561813,
-                    "date_published": "2025-01-03T22:31:34Z"
+                    "hashes": {
+                        "sha256": "c5b5876952926389c05d9ea5b095b4059cc1129e89fb0ea3997f80829a10a386"
+                    },
+                    "size": 456069,
+                    "date_published": "2026-08-04T04:31:12Z"
                 }
             ]
         },
@@ -4282,7 +4307,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "gtnhlib-0.6.0.jar",
+                    "file_name": "gtnhlib-0.11.43.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -4290,22 +4315,22 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/JHHRPrIv/gtnhlib-0.6.0.jar",
-                    "id": "JHHRPrIv",
+                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/EDC7RmTE/gtnhlib-0.11.43.jar",
+                    "id": "EDC7RmTE",
                     "parent_id": "vTvnv7qp",
                     "hashes": {
-                        "sha512": "c4026b9e530ada499f81be2e8de8c8fe02676a17549d9bb7d7a4db5f4f8cd78129103036505b9ee352adf8d8e41ebff082ee28b9028babe178f59171e3ccccd5",
-                        "sha1": "08de3d3fc9d4cd67e934fb356f11e53fdb0a8185"
+                        "sha512": "15022b2d0cae427b178ecd0e62126bf7460fc4bc345a81b2a06135cf919d72ed29fc51e1c165d8060ab37b268ee2d12d94e16dc9325c60129f6f1e022369f887",
+                        "sha1": "ab191c8e035f2ef50c7456d9195f41004aaa883d"
                     },
                     "required_dependencies": [
                         "ghjoiQAl"
                     ],
-                    "size": 24202735,
-                    "date_published": "2024-12-20T13:28:35.520923Z"
+                    "size": 1394001,
+                    "date_published": "2026-08-22T02:51:51.786970Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "gtnhlib-0.6.0.jar",
+                    "file_name": "gtnhlib-0.11.30.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -4313,18 +4338,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6007/586/gtnhlib-0.6.0.jar",
-                    "id": "6007586",
+                    "url": "https://edge.forgecdn.net/files/8429/88/gtnhlib-0.11.30.jar",
+                    "id": "8429088",
                     "parent_id": "688894",
                     "hashes": {
-                        "sha1": "08de3d3fc9d4cd67e934fb356f11e53fdb0a8185",
-                        "md5": "8807cf8d29a53ad6d497518cfeea0b2a"
+                        "sha1": "9e371799ad7a1ad2df4c7181884197eb82b36ec8",
+                        "md5": "e7d903d06a6b9840716ad0a97a1dda49"
                     },
                     "required_dependencies": [
                         "826970"
                     ],
-                    "size": 24202735,
-                    "date_published": "2024-12-20T13:28:36.730Z"
+                    "size": 1344323,
+                    "date_published": "2026-07-14T05:57:32.580Z"
                 }
             ]
         },
@@ -4368,7 +4393,7 @@
                 "curseforge": "unofficial-gs"
             },
             "name": {
-                "curseforge": "GraviSuiteUnoficial 1.7.10"
+                "curseforge": "GraviSuiteUnofficial 1.7.10"
             },
             "id": {
                 "curseforge": "421184"
@@ -4701,7 +4726,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "IC2Classic-1.7.10-1.2.5.jar",
+                    "file_name": "IC2Classic-1.7.10-1.2.6.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -4709,18 +4734,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5230/413/IC2Classic-1.7.10-1.2.5.jar",
-                    "id": "5230413",
+                    "url": "https://edge.forgecdn.net/files/8014/397/IC2Classic-1.7.10-1.2.6.jar",
+                    "id": "8014397",
                     "parent_id": "242942",
                     "hashes": {
-                        "sha1": "77c86e329a8fe6bf2378819bc184b407ee638635",
-                        "md5": "21ec842b59fcd7ef1bb095bc04b83832"
+                        "sha1": "4d067a48c68d4b9a0ac86ce60799bdbff2d430a4",
+                        "md5": "9d9208a3bcaafb84e92b10655e9782ca"
                     },
                     "required_dependencies": [
                         "227083"
                     ],
-                    "size": 3867302,
-                    "date_published": "2024-04-02T17:47:03.900Z"
+                    "size": 3867669,
+                    "date_published": "2026-04-30T11:35:46.780Z"
                 }
             ]
         },
@@ -5312,32 +5337,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "laggoggles-mc1.7.10-4.16.1.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5399/468/laggoggles-mc1.7.10-4.16.1.jar",
-                    "id": "5399468",
-                    "parent_id": "886297",
-                    "hashes": {
-                        "sha1": "fbec7db0578c3480030be6a21f6681ba665d00ba",
-                        "md5": "e7f719bbc1c17087d1df83262b76ce99"
-                    },
-                    "required_dependencies": [
-                        "826970",
-                        "665627"
-                    ],
-                    "size": 231049,
-                    "date_published": "2024-06-05T00:52:02.587Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "laggoggles-mc1.7.10-4.16.1.jar",
+                    "file_name": "laggoggles-mc1.7.10-4.17.0.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -5345,19 +5346,43 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yNnilXec/versions/gMcU1pXr/laggoggles-mc1.7.10-4.16.1.jar",
-                    "id": "gMcU1pXr",
+                    "url": "https://cdn.modrinth.com/data/yNnilXec/versions/AXXrPJ76/laggoggles-mc1.7.10-4.17.0.jar",
+                    "id": "AXXrPJ76",
                     "parent_id": "yNnilXec",
                     "hashes": {
-                        "sha512": "ba0b1a9f3147aa04fb441bce7929a3d324596fdd9de39a1e1c62882e0830ce85119cccf549bc3c6585bdf435a6218536a5e3212036597b0e6dca9b6b20b3c453",
-                        "sha1": "fbec7db0578c3480030be6a21f6681ba665d00ba"
+                        "sha512": "d84524254fc4d3e44c214ba5849f04373107e62f768cb244a5ba66c0653150ac97b867011c9ac195185f19ff5f0bb9dd35c44b5c994538d0ed64020c4d4ce78c",
+                        "sha1": "64728073dac3cbf44586e12c9b199af8e86ef91b"
                     },
                     "required_dependencies": [
-                        "eGLBEILf",
-                        "ghjoiQAl"
+                        "ghjoiQAl",
+                        "eGLBEILf"
                     ],
-                    "size": 231049,
-                    "date_published": "2024-06-05T00:52:06.336006Z"
+                    "size": 228868,
+                    "date_published": "2025-03-28T11:08:12.726591Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "laggoggles-mc1.7.10-4.17.0.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6358/920/laggoggles-mc1.7.10-4.17.0.jar",
+                    "id": "6358920",
+                    "parent_id": "886297",
+                    "hashes": {
+                        "sha1": "64728073dac3cbf44586e12c9b199af8e86ef91b",
+                        "md5": "af5441b689db1719d48f9be85db9bd7b"
+                    },
+                    "required_dependencies": [
+                        "665627",
+                        "826970"
+                    ],
+                    "size": 228868,
+                    "date_published": "2025-03-28T11:08:06.657Z"
                 }
             ]
         },
@@ -5488,13 +5513,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "legacyfixes-2.1.1.jar",
+                    "file_name": "legacyfixes-3.0.0.jar",
                     "release_type": "release",
-                    "url": "https://github.com/unilock/LegacyFixes/releases/download/2.1.1/legacyfixes-2.1.1.jar",
-                    "id": "203138104",
+                    "url": "https://github.com/unilock/LegacyFixes/releases/download/3.0.0/legacyfixes-3.0.0.jar",
+                    "id": "444797749",
                     "parent_id": "716328749",
-                    "size": 38998,
-                    "date_published": "2024-10-31T13:51:07Z"
+                    "hashes": {
+                        "sha256": "d74050dff985f452f2ad1b075330cc246b6841e45857ecf42163679454ed6b5f"
+                    },
+                    "size": 43174,
+                    "date_published": "2026-06-11T15:10:05Z"
                 }
             ]
         },
@@ -5868,13 +5896,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Mantle-0.5.0.jar",
+                    "file_name": "Mantle-0.5.4.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Mantle/releases/download/0.5.0/Mantle-0.5.0.jar",
-                    "id": "217392562",
+                    "url": "https://github.com/GTNewHorizons/Mantle/releases/download/0.5.4/Mantle-0.5.4.jar",
+                    "id": "460607635",
                     "parent_id": "430618667",
-                    "size": 200783,
-                    "date_published": "2025-01-02T12:22:11Z"
+                    "hashes": {
+                        "sha256": "6e5c4b0699888b54d81ec9e2a2ac0fbd2905a08766a819b8f823ff3e1bd6b9ee"
+                    },
+                    "size": 192322,
+                    "date_published": "2026-06-29T00:30:12Z"
                 }
             ]
         },
@@ -6448,13 +6479,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "MouseTweaks-2.4.20-GTNH.jar",
+                    "file_name": "MouseTweaks-2.5.2-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.20-GTNH/MouseTweaks-2.4.20-GTNH.jar",
-                    "id": "211783110",
+                    "url": "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.5.2-GTNH/MouseTweaks-2.5.2-GTNH.jar",
+                    "id": "425718896",
                     "parent_id": "510497543",
-                    "size": 46512,
-                    "date_published": "2024-12-07T19:14:55Z"
+                    "hashes": {
+                        "sha256": "b05c7f67372bd2ff16520159672005311b0e7c3166c1419b6cefd4193a603f99"
+                    },
+                    "size": 49178,
+                    "date_published": "2026-05-21T00:55:05Z"
                 }
             ]
         },
@@ -6572,13 +6606,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "MrTJPCore-1.3.0.jar",
+                    "file_name": "MrTJPCore-1.3.7.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.0/MrTJPCore-1.3.0.jar",
-                    "id": "217785666",
+                    "url": "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.7/MrTJPCore-1.3.7.jar",
+                    "id": "407709784",
                     "parent_id": "578364485",
-                    "size": 760393,
-                    "date_published": "2025-01-03T22:26:59Z"
+                    "hashes": {
+                        "sha256": "bda0302e180ac34f41d05a872e07a3bfc161b91ac32a53b664104447a0f94726"
+                    },
+                    "size": 739589,
+                    "date_published": "2026-04-28T21:47:53Z"
                 }
             ]
         },
@@ -6705,74 +6742,6 @@
                     "required_dependencies": [],
                     "size": 162515,
                     "date_published": "2017-07-17T01:45:42.163Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ADRh0lE6T5So8N0q",
-            "pakku_links": [
-                "Hx57GqjDAVYuZ91X"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "neodymium-unofficial",
-                "modrinth": "nd1710"
-            },
-            "name": {
-                "curseforge": "Neodymium Unofficial",
-                "modrinth": "Neodymium Unofficial"
-            },
-            "id": {
-                "curseforge": "1031274",
-                "modrinth": "YRBOv8ax"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "neodymium-mc1.7.10-0.4.3-unofficial.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YRBOv8ax/versions/oH3EUhNk/neodymium-mc1.7.10-0.4.3-unofficial.jar",
-                    "id": "oH3EUhNk",
-                    "parent_id": "YRBOv8ax",
-                    "hashes": {
-                        "sha512": "b5a42fe3bc4180450e7bf228566806a9ea639d221ff1679d434f5dfe1a891b4258127fbf5910315be27ad6412e1898b5c81f9bdb958fc44c31724e1ca6803e69",
-                        "sha1": "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227"
-                    },
-                    "required_dependencies": [
-                        "ghjoiQAl"
-                    ],
-                    "size": 156188,
-                    "date_published": "2024-12-31T15:24:05.750092Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "neodymium-mc1.7.10-0.4.3-unofficial.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6039/947/neodymium-mc1.7.10-0.4.3-unofficial.jar",
-                    "id": "6039947",
-                    "parent_id": "1031274",
-                    "hashes": {
-                        "sha1": "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227",
-                        "md5": "129bccbe3f589d1ef76fee5688e665fb"
-                    },
-                    "required_dependencies": [
-                        "826970"
-                    ],
-                    "size": 156188,
-                    "date_published": "2024-12-31T15:23:56.853Z"
                 }
             ]
         },
@@ -7025,49 +6994,49 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NotEnoughItems-2.7.14-GTNH-pre.jar",
+                    "file_name": "NotEnoughItems-2.8.104-GTNH.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
                     "loaders": [
                         "forge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/KXjBKzRS/NotEnoughItems-2.7.14-GTNH-pre.jar",
-                    "id": "KXjBKzRS",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/Sxw6wWG5/NotEnoughItems-2.8.104-GTNH.jar",
+                    "id": "Sxw6wWG5",
                     "parent_id": "iNPc3Onu",
                     "hashes": {
-                        "sha512": "824d8bec08f004d97acd5d961d77227dba61c5dd5bf5e2d993f7cc838df01cb7c6063f1988914f0a83be769457c49c757db113200b78916450f195f54702d1d6",
-                        "sha1": "daaa8c05484b4b7a3abaa57fad5276440f27a5a0"
+                        "sha512": "4920cadbeededf41c2c2ed379cb0d914520c8a6f246b975e9dfd37a4a060e043de7bba1a392453c24c9a60a53251421576ff358ffc446bad56afb9d0ce33124b",
+                        "sha1": "25cf6543480fccbb916f4a0801dd56add6bed155"
                     },
                     "required_dependencies": [
                         "qMOdaUOs"
                     ],
-                    "size": 956807,
-                    "date_published": "2025-01-04T14:39:18.101216Z"
+                    "size": 1579089,
+                    "date_published": "2026-06-16T04:50:18.787312Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "NotEnoughItems-2.7.14-GTNH-pre.jar",
+                    "file_name": "NotEnoughItems-2.8.114-GTNH.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
                     "loaders": [
                         "forge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6052/742/NotEnoughItems-2.7.14-GTNH-pre.jar",
-                    "id": "6052742",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8414/766/NotEnoughItems-2.8.114-GTNH.jar",
+                    "id": "8414766",
                     "parent_id": "358228",
                     "hashes": {
-                        "sha1": "daaa8c05484b4b7a3abaa57fad5276440f27a5a0",
-                        "md5": "609d554ed0c35a559478f3213d54fc27"
+                        "sha1": "abe5840795023b4b299b61ba40c0a48b9b6a0094",
+                        "md5": "de40c50ea9f3106247e73d4cb702ca5c"
                     },
                     "required_dependencies": [
                         "746279"
                     ],
-                    "size": 956807,
-                    "date_published": "2025-01-04T14:39:20.440Z"
+                    "size": 1602938,
+                    "date_published": "2026-07-11T20:46:18.400Z"
                 }
             ]
         },
@@ -7154,13 +7123,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenBlocks-1.11.0-GTNH.jar",
+                    "file_name": "OpenBlocks-1.12.21-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.0-GTNH/OpenBlocks-1.11.0-GTNH.jar",
-                    "id": "217393035",
+                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.21-GTNH/OpenBlocks-1.12.21-GTNH.jar",
+                    "id": "525611510",
                     "parent_id": "192599264",
-                    "size": 2782096,
-                    "date_published": "2025-01-02T12:26:45Z"
+                    "hashes": {
+                        "sha256": "59814b40fc581235ddaca8fdda7487c0c51c4312158f9a11f1ac173fb4ea6aee"
+                    },
+                    "size": 3474266,
+                    "date_published": "2026-08-23T00:38:24Z"
                 }
             ]
         },
@@ -7179,13 +7151,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenComputers-1.11.2-GTNH.jar",
+                    "file_name": "OpenComputers-1.12.57-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.2-GTNH/OpenComputers-1.11.2-GTNH.jar",
-                    "id": "217397064",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.57-GTNH/OpenComputers-1.12.57-GTNH.jar",
+                    "id": "529035675",
                     "parent_id": "183108860",
-                    "size": 16353210,
-                    "date_published": "2025-01-02T12:48:21Z"
+                    "hashes": {
+                        "sha256": "694d954ce4f87657a1c0bf25c9724be55aa44eff0e7d560a2304841ec32d7d9f"
+                    },
+                    "size": 16813620,
+                    "date_published": "2026-08-25T10:36:38Z"
                 }
             ]
         },
@@ -7237,13 +7212,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenModsLibs-0.10.9.jar",
+                    "file_name": "OpenModsLibs-0.10.14.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar",
-                    "id": "148150538",
+                    "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.14/OpenModsLibs-0.10.14.jar",
+                    "id": "406503722",
                     "parent_id": "414875094",
-                    "size": 2127814,
-                    "date_published": "2024-01-27T09:30:56Z"
+                    "hashes": {
+                        "sha256": "050c5faa4683bee04aa51ac5763f30d61438b4ac01b0ae9b23f0171b4688985d"
+                    },
+                    "size": 2127736,
+                    "date_published": "2026-04-27T10:19:51Z"
                 }
             ]
         },
@@ -7262,13 +7240,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenModularTurrets-2.4.2.jar",
+                    "file_name": "OpenModularTurrets-2.4.6.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.2/OpenModularTurrets-2.4.2.jar",
-                    "id": "218130108",
+                    "url": "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.6/OpenModularTurrets-2.4.6.jar",
+                    "id": "494236808",
                     "parent_id": "457128175",
-                    "size": 962328,
-                    "date_published": "2025-01-05T11:59:49Z"
+                    "hashes": {
+                        "sha256": "81fab2b9c1a80c051aca5e8c0a78562973d58c04a6807407b988b6e156eb2490"
+                    },
+                    "size": 942788,
+                    "date_published": "2026-07-29T16:02:28Z"
                 }
             ]
         },
@@ -7451,13 +7432,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "overloadedarmorbar-1.1.0.jar",
+                    "file_name": "overloadedarmorbar-1.1.1.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OverloadedArmorBar/releases/download/1.1.0/overloadedarmorbar-1.1.0.jar",
-                    "id": "145298232",
+                    "url": "https://github.com/GTNewHorizons/OverloadedArmorBar/releases/download/1.1.1/overloadedarmorbar-1.1.1.jar",
+                    "id": "377778509",
                     "parent_id": "247964167",
-                    "size": 11438,
-                    "date_published": "2024-01-12T18:56:49Z"
+                    "hashes": {
+                        "sha256": "5a36c261c4149d3079de7e738c7930f1d0081ae87057cab90ae5c19ba49be297"
+                    },
+                    "size": 11416,
+                    "date_published": "2026-03-20T07:41:46Z"
                 }
             ]
         },
@@ -7509,7 +7493,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "paniclecraft-1.7.10-2.7.2.0.jar",
+                    "file_name": "paniclecraft-1.7.10-2.7.2.1.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -7517,16 +7501,16 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4791/900/paniclecraft-1.7.10-2.7.2.0.jar",
-                    "id": "4791900",
+                    "url": "https://edge.forgecdn.net/files/6949/949/paniclecraft-1.7.10-2.7.2.1.jar",
+                    "id": "6949949",
                     "parent_id": "870804",
                     "hashes": {
-                        "sha1": "e5e6249f2a8bfeed90d4998ee6273bd737f8bd2e",
-                        "md5": "014b131cf31a7878e7af76298dbb7d69"
+                        "sha1": "200e19d2e97ebf91f27498edb4dceef5c0faba04",
+                        "md5": "d648e04af5ca22978291199046344f6e"
                     },
                     "required_dependencies": [],
-                    "size": 544914,
-                    "date_published": "2023-10-10T16:02:14.550Z"
+                    "size": 547966,
+                    "date_published": "2025-08-31T21:05:29.887Z"
                 }
             ]
         },
@@ -8016,13 +8000,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ProjRed-4.11.0-GTNH.jar",
+                    "file_name": "ProjRed-4.12.43-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.0-GTNH/ProjRed-4.11.0-GTNH.jar",
-                    "id": "217791207",
+                    "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.43-GTNH/ProjRed-4.12.43-GTNH.jar",
+                    "id": "516192787",
                     "parent_id": "153626495",
-                    "size": 10450507,
-                    "date_published": "2025-01-03T22:50:17Z"
+                    "hashes": {
+                        "sha256": "fb8501d127e1fb2c5da5416ae07063e04a0596098a3dd0a83fb3ebef2fbb63ae"
+                    },
+                    "size": 10288479,
+                    "date_published": "2026-08-15T23:28:23Z"
                 }
             ]
         },
@@ -8107,13 +8094,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Railcraft-9.16.1.jar",
+                    "file_name": "Railcraft-9.17.31.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.1/Railcraft-9.16.1.jar",
-                    "id": "217393637",
+                    "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.31/Railcraft-9.17.31.jar",
+                    "id": "509138213",
                     "parent_id": "400592566",
-                    "size": 3419841,
-                    "date_published": "2025-01-02T12:30:45Z"
+                    "hashes": {
+                        "sha256": "1d995023f06eef199cbb591dbd30df53e114c41b7204ed16448458eba1dcfdcb"
+                    },
+                    "size": 3390507,
+                    "date_published": "2026-08-10T19:00:53Z"
                 }
             ]
         },
@@ -8199,23 +8189,26 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "RecurrentComplex-0.9.7.1.1.jar",
+                    "file_name": "RecurrentComplex-0.9.7.1.2.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
+                    "loaders": [
+                        "forge"
+                    ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2339/621/RecurrentComplex-0.9.7.1.1.jar",
-                    "id": "2339621",
+                    "url": "https://edge.forgecdn.net/files/8563/477/RecurrentComplex-0.9.7.1.2.jar",
+                    "id": "8563477",
                     "parent_id": "223150",
                     "hashes": {
-                        "sha1": "5910258657bf7f2c1852e5f28858c8d184985f9d",
-                        "md5": "80e4043aec539c111d8288641136428b"
+                        "sha1": "cc4ab12d09d48c48beae850717584362fae8dd17",
+                        "md5": "84544dc5e9f3ad38e7a8884a7e4a455e"
                     },
                     "required_dependencies": [
                         "224535"
                     ],
-                    "size": 4508578,
-                    "date_published": "2016-10-26T18:39:47.347Z"
+                    "size": 4492693,
+                    "date_published": "2026-08-02T18:26:36.487Z"
                 }
             ]
         },
@@ -9074,13 +9067,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "StorageDrawers-2.1.0-GTNH.jar",
+                    "file_name": "StorageDrawers-2.2.28-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.0-GTNH/StorageDrawers-2.1.0-GTNH.jar",
-                    "id": "217399692",
+                    "url": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.28-GTNH/StorageDrawers-2.2.28-GTNH.jar",
+                    "id": "503443859",
                     "parent_id": "78181444",
-                    "size": 1274343,
-                    "date_published": "2025-01-02T13:04:51Z"
+                    "hashes": {
+                        "sha256": "b04af633b082b03a07d20031a2f0773b62b99741c49df1b4a54ad0af6cd67a5c"
+                    },
+                    "size": 1276706,
+                    "date_published": "2026-08-06T03:58:28Z"
                 }
             ]
         },
@@ -9287,7 +9283,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Thaumcraft4Tweaks-1.5.26.jar",
+                    "file_name": "Thaumcraft4Tweaks-1.5.43.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -9295,20 +9291,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/J0HWRWq5/versions/MqWyGh84/Thaumcraft4Tweaks-1.5.26.jar",
-                    "id": "MqWyGh84",
+                    "url": "https://cdn.modrinth.com/data/J0HWRWq5/versions/tSJSjtjE/Thaumcraft4Tweaks-1.5.43.jar",
+                    "id": "tSJSjtjE",
                     "parent_id": "J0HWRWq5",
                     "hashes": {
-                        "sha512": "114a047c26bf50d9900ff9a75031336689874d843684a712ef652baf1874a6c1a7a3f6b69e1b94fe09bfb26bc3062194a3241feecc89b188f127ad6fd3da3aa2",
-                        "sha1": "8ff11a92db7c85c677bd99d908f35054af598446"
+                        "sha512": "8f09326d12a1f2338ba611707a408668ec3c5ecc71a81f3cbf16fac66ad8bf4305773e77b34a2d56d44f427b3787c21021ef039f5a652e7c919255651f701e51",
+                        "sha1": "0cb5cf6df7ac51d77e17a7529d30acc0ba1a64ca"
                     },
                     "required_dependencies": [],
-                    "size": 299810,
-                    "date_published": "2024-12-24T08:35:22.902984Z"
+                    "size": 388461,
+                    "date_published": "2026-02-10T09:04:12.815422Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Thaumcraft4Tweaks-1.5.28.jar",
+                    "file_name": "Thaumcraft4Tweaks-1.5.47.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -9316,16 +9312,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6026/513/Thaumcraft4Tweaks-1.5.28.jar",
-                    "id": "6026513",
+                    "url": "https://edge.forgecdn.net/files/8668/688/Thaumcraft4Tweaks-1.5.47.jar",
+                    "id": "8668688",
                     "parent_id": "431297",
                     "hashes": {
-                        "sha1": "9c36444af5a619f3bb0338187c48d5f1af6e4f06",
-                        "md5": "11f17ba643cbeeeb940846c25c450f08"
+                        "sha1": "94d1261de7d720ab73a979371d0518397d831cab",
+                        "md5": "72254c0701f2e2ce65ffbc9595b47ae8"
                     },
                     "required_dependencies": [],
-                    "size": 300029,
-                    "date_published": "2024-12-27T05:35:40.343Z"
+                    "size": 397380,
+                    "date_published": "2026-08-17T09:53:20.973Z"
                 }
             ]
         },
@@ -9732,13 +9728,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TConstruct-1.13.3-GTNH.jar",
+                    "file_name": "TConstruct-1.14.103-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.3-GTNH/TConstruct-1.13.3-GTNH.jar",
-                    "id": "218126436",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.103-GTNH/TConstruct-1.14.103-GTNH.jar",
+                    "id": "525433564",
                     "parent_id": "53168432",
-                    "size": 5722502,
-                    "date_published": "2025-01-05T11:31:24Z"
+                    "hashes": {
+                        "sha256": "46ed55db8707a98c3c315291f5c489ad70650fb7e40940386aa2fc8c3d7d3839"
+                    },
+                    "size": 5591874,
+                    "date_published": "2026-08-22T20:44:55Z"
                 }
             ]
         },
@@ -10038,29 +10037,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "+unimixins-all-1.7.10-0.1.19.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5858/384/+unimixins-all-1.7.10-0.1.19.jar",
-                    "id": "5858384",
-                    "parent_id": "826970",
-                    "hashes": {
-                        "sha1": "61bcd8c5e7ac8a97e31418db36635b46912db469",
-                        "md5": "f3c47bebe224ed677a9551265e9d7aa1"
-                    },
-                    "required_dependencies": [],
-                    "size": 5239985,
-                    "date_published": "2024-10-29T23:42:20.407Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "+unimixins-all-1.7.10-0.1.19.jar",
+                    "file_name": "+unimixins-all-1.7.10-0.3.1.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -10068,16 +10046,37 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ghjoiQAl/versions/Un9U6QdP/+unimixins-all-1.7.10-0.1.19.jar",
-                    "id": "Un9U6QdP",
+                    "url": "https://cdn.modrinth.com/data/ghjoiQAl/versions/SeOh2lEZ/+unimixins-all-1.7.10-0.3.1.jar",
+                    "id": "SeOh2lEZ",
                     "parent_id": "ghjoiQAl",
                     "hashes": {
-                        "sha512": "c8671a0438a9ef90a86b2ada794cf04baa92dd6485970fd4a9490010a489ef838bc35429e54eaae2ef42876c776afb79334d747b9b1b75dd9afc71c119813ba4",
-                        "sha1": "61bcd8c5e7ac8a97e31418db36635b46912db469"
+                        "sha512": "305a13cdc0ea7bdc724c49ee5d7d32f307d602e8e4d7a3b86dcf66a2fc69e1134eae113c1e9761fe7daec3d81f388886bf63e5d19438ef2e205819433f7e7112",
+                        "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604"
                     },
                     "required_dependencies": [],
-                    "size": 5239985,
-                    "date_published": "2024-10-29T23:42:18.114647Z"
+                    "size": 5519796,
+                    "date_published": "2026-05-27T08:01:55.254833Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "+unimixins-all-1.7.10-0.3.1.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8153/136/+unimixins-all-1.7.10-0.3.1.jar",
+                    "id": "8153136",
+                    "parent_id": "826970",
+                    "hashes": {
+                        "sha1": "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
+                        "md5": "4bedf439dc134e0065aaca457cd19bf8"
+                    },
+                    "required_dependencies": [],
+                    "size": 5519796,
+                    "date_published": "2026-05-27T08:01:59.410Z"
                 }
             ]
         },
@@ -10528,13 +10527,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "WR-CBE-1.7.0.jar",
+                    "file_name": "WR-CBE-1.7.12.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.0/WR-CBE-1.7.0.jar",
-                    "id": "217767116",
+                    "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.12/WR-CBE-1.7.12.jar",
+                    "id": "510299153",
                     "parent_id": "230589423",
-                    "size": 336833,
-                    "date_published": "2025-01-03T21:00:06Z"
+                    "hashes": {
+                        "sha256": "71f52cd25d993bb5523d779461ad0168c7f89ed44181846e368f8a1eaa7ce192"
+                    },
+                    "size": 342418,
+                    "date_published": "2026-08-11T15:27:47Z"
                 }
             ]
         },
@@ -10946,13 +10948,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "NEIAddons-1.16.0.jar",
+                    "file_name": "NEIAddons-1.18.5.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar",
-                    "id": "176343540",
+                    "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.5/NEIAddons-1.18.5.jar",
+                    "id": "524566321",
                     "parent_id": "398808234",
-                    "size": 145330,
-                    "date_published": "2024-06-27T19:50:40Z"
+                    "hashes": {
+                        "sha256": "39576cd0accb129ac34b4d4f29eb43551e30a25d12f99ef172a98684ed89ac53"
+                    },
+                    "size": 153251,
+                    "date_published": "2026-08-22T02:52:10Z"
                 }
             ]
         },
@@ -11013,13 +11018,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TwilightForest-2.7.2.jar",
+                    "file_name": "TwilightForest-2.7.39.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.2/TwilightForest-2.7.2.jar",
-                    "id": "217768555",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.39/TwilightForest-2.7.39.jar",
+                    "id": "508287182",
                     "parent_id": "237507266",
-                    "size": 5423809,
-                    "date_published": "2025-01-03T21:06:57Z"
+                    "hashes": {
+                        "sha256": "2ecc0360c59754ff1f7daa2def3a41deee0c9b2ddf5ce65730f180fbbb2c445a"
+                    },
+                    "size": 5362800,
+                    "date_published": "2026-08-10T04:31:24Z"
                 }
             ]
         },
@@ -11038,13 +11046,16 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Waila-1.8.2.jar",
+                    "file_name": "Waila-1.19.34.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.2/Waila-1.8.2.jar",
-                    "id": "206961290",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.19.34/Waila-1.19.34.jar",
+                    "id": "526445906",
                     "parent_id": "248256103",
-                    "size": 534505,
-                    "date_published": "2024-11-16T14:42:01Z"
+                    "hashes": {
+                        "sha256": "2eaf6bf08e950369547e93ebea365826b4db4f83d193f9d65441ffff38c5ef9e"
+                    },
+                    "size": 551945,
+                    "date_published": "2026-08-23T17:18:06Z"
                 }
             ]
         }

@@ -1,4 +1,4 @@
-ofRenderDistanceChunks:12
+ofRenderDistanceChunks:8
 ofFogType:2
 ofFogStart:0.8
 ofMipmapType:0
@@ -42,7 +42,7 @@ ofSky:true
 ofStars:true
 ofSunMoon:true
 ofVignette:0
-ofChunkUpdates:3
+ofChunkUpdates:2
 ofChunkLoading:0
 ofChunkUpdatesDynamic:false
 ofTime:0

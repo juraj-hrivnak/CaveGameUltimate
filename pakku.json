@@ -36,6 +36,9 @@
         },
         "GTNewHorizons/WirelessRedstone-CBE": {
             "type": "MOD"
+        },
+        "GTNewHorizons/Applied-Energistics-2-Unofficial": {
+            "update_strategy": "LATEST"
         }
     }
 }
