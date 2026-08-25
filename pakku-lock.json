@@ -7397,64 +7397,6 @@
             ]
         },
         {
-            "pakku_id": "FalSCdZsUbZzoy1E",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "ore-tweaker",
-                "modrinth": "ore-tweaker"
-            },
-            "name": {
-                "curseforge": "Ore Tweaker",
-                "modrinth": "Ore Tweaker"
-            },
-            "id": {
-                "curseforge": "242436",
-                "modrinth": "MEbCLGFC"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "OreTweaker-1.0.2-1.7.10.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MEbCLGFC/versions/Eqvdg2rp/OreTweaker-1.0.2-1.7.10.jar",
-                    "id": "Eqvdg2rp",
-                    "parent_id": "MEbCLGFC",
-                    "hashes": {
-                        "sha512": "21ed4245ca6b91361332270dba37351d90dbac59ecf9577937202a39847474778122d7a081f474f076c5b12bdf4f2d41bb297bb953294159c46057088e16f904",
-                        "sha1": "9a9c9d34609b749734ff8168ffa94ea93c2b1ef0"
-                    },
-                    "required_dependencies": [],
-                    "size": 11591,
-                    "date_published": "2023-06-10T22:35:58.226847Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "OreTweaker-1.0.2-1.7.10.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2315/75/OreTweaker-1.0.2-1.7.10.jar",
-                    "id": "2315075",
-                    "parent_id": "242436",
-                    "hashes": {
-                        "sha1": "6b2bce086f775c8723ad156682fe3ce3f2b99743",
-                        "md5": "01ef5493fd5f4a0f5a2cf5c979ccb392"
-                    },
-                    "required_dependencies": [],
-                    "size": 11610,
-                    "date_published": "2016-07-11T02:11:06.713Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "cTRTppwLPBK88zvW",
             "type": "MOD",
             "slug": {
